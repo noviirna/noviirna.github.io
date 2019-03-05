@@ -1,2 +1,2 @@
 # noviirna.github.io
- [Exercises 1] Berlatih dengan Pseudocode
+ [Exercise 3] - Website yang dihosting dengan Github Pages
