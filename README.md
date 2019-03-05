@@ -9,8 +9,12 @@ Site github ini dibuat untuk belajar mengenai penggunaan repository github dalam
 
 ## Author
 
-N**ovi** Irnawati dari kelas _Daring Fox_
 ![](https://pbs.twimg.com/profile_images/1089479997725659136/f3-kjQGp_400x400.jpg)
+
+
+
+N**ovi** Irnawati dari kelas _Daring Fox_
+
 
 ## Tak Kenal Maka Tak Sayang...
 
