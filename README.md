@@ -24,3 +24,6 @@ GitHub : [link](https://github.com/noviirna/)
 
 LinkedIn : [Novi Irnawati](https://www.linkedin.com/in/novi-irnawati/)
 
+
+## Favorite Quotes
+>"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment"
