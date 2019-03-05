@@ -8,5 +8,5 @@ N**ovi** Irnawati dari kelas _Daring Fox_
 ##**Tak Kenal Maka Tak Sayang...**
 Instagram : [irnawati.novi](instagram.com/irnawati.novi)
 GitHub : [link](https://github.com/noviirna/)
-LinkedIn : [Novi Irnawati] (linkedin.com/in/novi-irnawati)
+LinkedIn : [Novi Irnawati](https://www.linkedin.com/in/novi-irnawati/)
 
