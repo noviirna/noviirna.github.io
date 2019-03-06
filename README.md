@@ -12,7 +12,7 @@
 
 |No   | Plans  | Due Date  |
 |---|---|---|
-| 1  | Dynamic Layout |   |
-| 2  | More complex css |   |
-| 3  |  More COntent |   |
+| 1  | Dynamic Layout | soon  |
+| 2  | More complex css |  soon |
+| 3  |  More COntent |  soon |
  
