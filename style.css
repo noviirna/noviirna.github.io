@@ -50,7 +50,23 @@ p{
 
 a{
     font-family: 'Ubuntu', sans-serif;
-    font-style: italic
+    font-style: italic;
+    color: darkgrey;
+    text-decoration: none;
+}
+
+a:visited{
+  color:darkgrey;
+  text-decoration: none;
+}
+
+a:hover{
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+  color: white;
+  text-decoration:underline overline;
+  text-decoration-color: #566963;
+
 }
 
 button {
