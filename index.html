@@ -5,8 +5,6 @@
     <link href="style.css" type="text/css" rel="stylesheet">
 </head>
 <body>
-<!-- SCRIPT -->
-<script src="script.js"></script>
 <!-- HEADER -->
 <div class="main-header">
     <h3>Encrypt / Decrypt Your Words</h3>
@@ -16,16 +14,18 @@
 <div class="content">
     <div class="container">
         <div class="comment">
-            <textarea id="myTextBox" class="textinput" rows="10" value="" placeholder="Type your words here. . ." value="b"></textarea>
+            <textarea id="myTextBox" class="textinput" rows="10" value="" placeholder="Type your words here. . ."></textarea>
         </div>
     </div>
     <br>
-    <button id="callFunction" onclick="myFunction()" type="button">Encrypt / Decrypt Your Words</button>      <button type="button" onclick="resetFunction()" id="resetFunction">Reset The Words</button>     <button id="copy" onclick="copyFunction()" type="button" disabled>Copy The Words</button>
+    <button id="callButton" type="button">Encrypt / Decrypt Your Words</button>      <button type="button" id="resetButton">Reset The Words</button>     <button id="copyButton" type="button" disabled>Copy The Words</button>
 </div>
 <!-- FOOTER -->
 <div class="footer" >
     Copyright 2019 &#169; <a href="https://github.com/noviirna">Novi Irnawati</a><br>
     <p id="demo"></p>
 </div>
+<!-- SCRIPT -->
+<script src="script.js"></script>
 </body>
 </html>
