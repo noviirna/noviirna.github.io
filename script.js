@@ -1,7 +1,7 @@
 document.getElementById("callButton").addEventListener("click", myFunction);
 document.getElementById("resetButton").addEventListener("click", resetFunction);
 document.getElementById("copyButton").addEventListener("click", copyFunction);
-
+document.getElementById("copyButton").style.display = "none";
 function reverseWord(str){
     var result = ""
     for(var i = str.length-1; i >= 0; i--){
@@ -43,7 +43,8 @@ return cetak;
 function myFunction(){
     var thetext = document.getElementById("myTextBox").value;
     var result = encryptWord(thetext);
-    document.getElementById("copyButton").removeAttribute("disabled")
+    document.getElementById("copyButton").style.display = "inline";
+    // document.getElementById("copyButton").removeAttribute("disabled")
     document.getElementById('myTextBox').value = result;
     document.getElementById("myTextBox").readOnly=true;
     document.getElementById("myTextBox").placeholder="You just inputted empty words! click the 'Reset The Words' button to reset the page and insert your words on the text area! ";
@@ -52,13 +53,14 @@ function myFunction(){
 function resetFunction(){
     document.getElementById('myTextBox').value = "";
     document.getElementById("myTextBox").readOnly=false;
-    document.getElementById("copyButton").disabled=true;
+    // document.getElementById("copyButton").disabled=true;
+    document.getElementById("copyButton").style.display = "none";
     document.getElementById("myTextBox").focus(); 
     document.getElementById("myTextBox").placeholder = "Type your words here. . ."
 }
 
 function copyFunction(){
-    let textarea = docaument.getElementById('myTextBox');
+    let textarea = document.getElementById('myTextBox');
     textarea.select();
     document.execCommand("copy");
 }

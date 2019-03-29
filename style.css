@@ -82,6 +82,7 @@ button {
   width: 250px;
 
 }
+
 button:hover {
 	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #6c7c7c), color-stop(1, #768d87));
 	background:-moz-linear-gradient(top, #6c7c7c 5%, #768d87 100%);
@@ -92,11 +93,11 @@ button:hover {
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#6c7c7c', endColorstr='#768d87',GradientType=0);
 	background-color:#6c7c7c;
 }
+
 button:active {
 	position:relative;
 	top:1px;
 }
-
 
 textarea{
     height: auto;
