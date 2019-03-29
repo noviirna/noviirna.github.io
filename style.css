@@ -1,212 +1,138 @@
 /* Main Heading Font */
 @font-face {
-  font-family: 'Ubuntu';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Ubuntu Regular'), local('Ubuntu-Regular'), url(https://fonts.gstatic.com/s/ubuntu/v13/4iCs6KVjbNBYlgoKfw72.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-
-/*  Body Font */
-@font-face {
-  font-family: 'Hind';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Hind Regular'), local('Hind-Regular'), url(https://fonts.gstatic.com/s/hind/v9/5aU69_a8oxmIdGl4BA.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-
-/* Sub Heading Font */
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Source Sans Pro Regular'), local('SourceSansPro-Regular'), url(https://fonts.gstatic.com/s/sourcesanspro/v11/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-
-
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Ubuntu Regular'), local('Ubuntu-Regular'), url(https://fonts.gstatic.com/s/ubuntu/v13/4iCs6KVjbNBYlgoKfw72.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  
+  /*  Body Font */
+  @font-face {
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Hind Regular'), local('Hind-Regular'), url(https://fonts.gstatic.com/s/hind/v9/5aU69_a8oxmIdGl4BA.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  
+  /* Sub Heading Font */
+  @font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Source Sans Pro Regular'), local('SourceSansPro-Regular'), url(https://fonts.gstatic.com/s/sourcesanspro/v11/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  
+/* TAGS */  
 html, body{
-  margin: 0;
-  padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 h3{
-  font-family: 'Source Sans Pro', sans-serif;
-  color: rgba(0, 48, 90, 0.63);
-  text-align: center;
-  font-size: 4vw;
-  padding: 1.5vw;
-  font-weight: 1000;
+      font-family: 'Ubuntu', sans-serif;
+      color: rgba(254, 254, 255, 0.63);
+      text-align: center;
+      font-size: 3vmax;
+      margin-top: 1vh;
+      margin-bottom: 1vh;
+      font-weight: 1000;
 }
 
 p{
-  font-family: 'Hind', sans-serif;
-  color: rgb(53, 53, 53);
-  font-size: 2.5vw;
-  text-align: justify;
+      font-family: 'Hind', sans-serif;
+      color: rgb(53, 53, 53);
+      font-size: 14px;
+      text-align: justify;
 }
 
-nav{
-  vertical-align: middle;
-  width: 100%;
-  height: auto;
-  background-color: black;
-  margin: 0;
-  display: block;
-  position: relative;
-  text-align: center;
-  margin-top: -16px;
+a{
+    font-family: 'Ubuntu', sans-serif;
+    font-style: italic
 }
 
-nav li{
-  color: #fff;
-  font-family: 'sourcesanspro', sans-serif;
-  font-weight: 600;
-  font-size: 12px;
-  display: inline-block;
-  position: relative;
-  padding: 3vw 40px;
-  margin: 0; 
+button{
+    padding: 1vw;
+    margin: 2vw;
+    font-family: 'Hind', sans-serif;
+    color: rgb(53, 53, 53);
+    font-size: 12px;
+    text-align: center;
+    width : 200px;
 }
 
-nav ul li:hover{
-  background-color: rgb(75, 75, 75);
-  
+textarea{
+    height: auto;
 }
 
+/* CLASS */
+    .main-header{
+      background-color: black;
+      color: white;
+      padding: 20px 0px;
+      margin: 0;
+      text-align: center;
+      height: 20vh auto;
+      display:block;
+      position: relative;
+    }
 
-footer{
-background-color: black;
-color: white;
-height: auto;
-padding: 50px 0px;
-margin: 0;
-text-align: center;
-vertical-align: middle;
-}
+    .content{
+      display: block;
+      background-color:#b2d8d8;
+      padding: 20px 16px;
+      overflow: hidden;
+      text-size-adjust: 2vw auto;
+      text-align: center;
+      height: 60vh;
+      max-height: 20000px;
+      min-height: 20vh;
+      position: relative;
+      margin : auto;
+    }
+    
+    .container {
+        max-width: 95%;
+        max-height: 100%;
+        height : 15vh;
+        padding-top: 2vmin;
+        margin: auto;
+    }
+    
+    .comment {
+        float: top;
+        width: 100%;
+        max-height: 100%;
+    }
+ 
+    
+    .textinput {
+        float:left;
+        width: 100%;
+        min-height: 75px;
+        outline: none;
+        resize: none;
+        border: 1px solid grey;
+    }
 
-.main-header{
-  position: relative;
-  text-align: center;
-  display: block;
-  margin-bottom: -5px;
-  position: relative;
-  margin-top: -16px;
-}
+    .footer{
+        display: block;
+        font-family: 'Hind', sans-serif;
+        background-color: black;
+        color: white;
+        padding: 2vh 0px;
+        height: 10vh;
+        margin: 0;
+        text-align: center;
+        position: relative;
+    }
 
-#pic-head{
-  width: 100%;
-  height: auto;
-  z-index: 10;
-}
-
-
-.text-head{
-  position: absolute;
-  top: 20%;
-  bottom: 20%;
-  text-align: center;
-  width: 100%;
-  height: auto;
-}
-
-.text-head H1{
-  font-size: 7vw;
-  font-family: 'Ubuntu';
-  color: #242424;
-  text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
-  text-align: center;
-}
-
-.text-head p{
-  font-size: 5vw;
-  font-family: 'Source Sans Pro';
-  color:rgb(22, 41, 37);
-  text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
-  text-align: center;
-}
-
-.content1{
-  display: block;
-  position: relative;
-  background-color:#b2d8d8;
-  padding: 20px 16px;
-  overflow: hidden;
-}
-
-.content1 ul{
-  font-family: 'Hind', sans-serif;
-}
-
-.content2{
-  display: block;
-  position: relative;
-  background-color:#333f3f;
-  padding: 20px 4vw;
-  overflow: hidden;
-}
-
-.content2 H3{
-  color: white;
-}
-
-.content2 p{
-  color: white;
-  font-family: 'Hind', sans-serif;
-}
-
-.footer{
-  display: block;
-  position: relative;
-  padding: 20px 4vw;
-  overflow: hidden;
-}
-
-.content1 ul{
-  width: 100%;
-  padding: 1vw 0;
-  margin: 0;
-  display: block;
-  position: relative;
-  text-align: center;
-}
-
-.content1 li{
-  border-color: rgba(197, 197, 197, 0.3);
-  border-width: 3px;
-  border-style: inset;
-  color: white;
-  background-color: #1E1E1E;
-  font-family: 'Hind', sans-serif;
-  font-size: 2vw;
-  display: inline-block;
-  width: 15vw;
-  min-height: 3vw;
-  min-width: 4vw;
-  height: auto;
-  position: relative;
-  padding: 2vw 2vw;
-  margin: 1vw;
-  
-}
-
-.content1 ul :hover{
-  border-color: rgba(197, 197, 197, 0.3);
-  border-width: 3px;
-  border-style: inset;
-  color: lightgray;
-  font-weight: 1000;
-  background-color: rgba(0, 48, 90, 0.63);;
-  font-family: 'Hind', sans-serif;
-  font-size: 2vw;
-  display: inline-block;
-  width: 15vw;
-  min-height: 3vw;
-  min-width: 4vw;
-  height: auto;
-  position: relative;
-  padding: 2vw 2vw;
-  margin: 1vw;
-  
-}
+/* ID */
+#text{
+    font-family: 'Hind', sans-serif;
+    color: rgba(255, 255, 255, 0.705);
+    text-align: center;
+    font-size: 2.6vmin;
+   }

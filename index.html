@@ -1,51 +1,61 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Securitech Consulting</title>
-	<link href="style.css" type="text/css" rel="stylesheet">
+	<title>Final Project</title>
+    <link href="style.css" type="text/css" rel="stylesheet">
 </head>
 <body>
+<!-- SCRIPT -->
+<script src="script.js"></script>
 <!-- HEADER -->
-<!-- NAVIGATION -->
-<nav>
-	<ul>
-		<li><a href="#"></a>Home</li></a>
-		<li><a href="#about-us"></a>About Us</li></a>
-		<li><a href="#our-services"></a>Our Services</li></a>
-		<li><a href="#contact-us"></a>Contact Us</li></a>
-	</ul>
-</nav>
-<!-- PICTURE HEADER-->
 <div class="main-header">
-<img id="pic-head" src="../noviirna.github.io/banner-header1.jpg"/>
-	<div class="text-head">
-	<h1>SECURITECH CONSULTING</h1>
-	<p>Your Company's IT Security is Our Priority</p>
-	</div>
+    <h3>Encrypt / Decrypt Your Words</h3>
+    <span id="text">Write your own secret message here! This app can encrypt a word and turn it to some random letters. Also it can decrypt it to be the former words that you encrypted with this app!</span>
 </div>
 <!-- SERVICES -->
-<div class="content1" id="our-services">
-	<H3 >Our Services</H3>
-	<ul>
-		<li>Penetration Testing</li>
-		<li>Source Code Review</li>
-		<li>Security Assessment</li>
-		<li>Incident Response Team</li>
-		<li>Digital Forensic Services</li>
-		<li>IT Training & Seminars</li>
-		<li>IT Security Consultancy</li>
-	</ul>
-</div>
-<!-- About US -->
-<div class="content2" id="about-us">
-	<H3>About Us</H3>
-	<p>Securitech Consulting is a privately held I.T & soft skills (Management) training company that excels in delivering a faster, convenient and economical way. We are supported by 50+ more Gold Certified Microsoft and a certified partner of CISCO, CompTIA, EC-Council, Certified Business Professional, Charles Pathway, Global Courseware, etc to make sure we deliver best results and suggestion to help you finding answer on your enterprise's information security concerns.</p>
+<div class="content">
+    <div class="container">
+        <div class="comment">
+            <textarea id="myTextBox" class="textinput" rows="10" value="" placeholder="Type your words here. . ." value="b"></textarea>
+        </div>
+    </div>
+    <br>
+    <button id="callFunction" onclick="myFunction()" type="button">Encrypt / Decrypt Your Words</button>      <button type="button" onclick="resetFunction()" id="resetFunction">Reset The Words</button>     <button id="copy" onclick="copyFunction()" type="button" disabled>Copy The Words</button>
 </div>
 <!-- FOOTER -->
-<div class="footer" id="contact-us">
-<H3>How Safe is Your Company?</H3>
-<p>Call in the experts, and get on with doing what you do best. If you would like to learn more, call and speak to our expert on 0123456789 or email abcde@abcde.com </p>
+<div class="footer" >
+    Copyright 2019 &#169; <a href="https://github.com/noviirna">Novi Irnawati</a><br>
+    <p id="demo"></p>
 </div>
-<footer> Copyright 2019 <a href="https://github.com/noviirna">Novi Irnawati</a></footer>
+<!-- <script>
+        function encryptWord(str){
+
+        }
+
+        function myFunction(){
+            var thetext = document.getElementById("myTextBox").value;
+            var result = encryptWord(thetext);
+            document.getElementById("copy").removeAttribute("disabled")
+            // document.getElementById('myTextBox').value = result;
+            document.getElementById("myTextBox").readOnly=true;
+        }
+
+        function resetFunction(){
+            document.getElementById('myTextBox').value = "";
+            document.getElementById("myTextBox").readOnly=false;
+            document.getElementById("copy").disabled=true;
+            document.getElementById("myTextBox").focus(); 
+        }
+
+        function copyFunction(){
+            let textarea = document.getElementById('myTextBox');
+            textarea.select();
+            document.execCommand("copy");
+        } 
+
+        // document.getElementById("b").onclick = function () {
+        //     document.getElementsById("MyTextBox").readOnly = true; 
+        //     };
+</script> -->
 </body>
 </html>
