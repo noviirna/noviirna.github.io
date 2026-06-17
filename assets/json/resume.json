@@ -1,0 +1,241 @@
+{
+  "basics": {
+    "name": "Novi Irnawati",
+    "image": "/assets/img/prof_pic_20260614.jpeg",
+    "email": "noviirnawati (dot) work (at) gmail (dot) com</a>",
+    "summary": "A results-driven technology professional with a progressive career in digital banking, spanning Project Administration, Backend Development, Technical Leadership, and Solution Architecture within large-scale, regulated financial institutions serving millions of users across Indonesia.<br><br>A generalist in IT, combining deep domain expertise in digital banking systems with broad hands-on experience across the full software development lifecycle, from writing and reviewing code to architecting systems, leading squads, managing procurement, and collaborating with stakeholders across all levels of the organization.<br><br>While rooted in software engineering and solution architecture, my cross-functional experience across the full software development lifecycle makes me adaptable to a range of roles in the technology and banking industry, including:\n\n<ul>\n  <li><strong>Software Engineering</strong> - Backend, Full Stack, Technical Writer</li>\n  <li><strong>Technical Leadership</strong> - Tech Lead, Solution Architect</li>\n  <li><strong>Quality & Testing</strong> - Software Tester, QA Engineer</li>\n  <li><strong>Delivery & Agile</strong> - Project Manager, Scrum Master, IT Project Admin</li>\n  <li><strong>Analysis & Design</strong> - System Analyst, Business Analyst</li>\n  <li><strong>Product</strong> - Product Owner</li>\n  <li><strong>Data & Integration</strong> - Data Engineer, ETL Developer</li>\n  <li><strong>Risk & Compliance</strong> - Fraud Analyst, IT Security Analyst</li>\n</ul><br>Currently open to remote roles and collaborations worldwide.",
+    "location": {
+      "city": "Jakarta Greater Area",
+      "countryCode": "ID",
+      "region": "Indonesia",
+      "timezone": "UTC+7"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Private Owned Bank",
+      "position": "Solution Architect",
+      "location": "Indonesia",
+      "startDate": "2024-11",
+      "endDate": "2025-08",
+      "summary": "Fulltime · Hybrid<br><br>Served as Solution Architect for a large-scale digital retail banking platform (mobile & web) serving millions active users, owning architectural decisions and feature delivery for core payment services including QR payments, Payment Gateway Integration, intra-bank transfers, interbank transfers, and international remittances, built on Microservices Architecture and processing up to hundreds of thousands of transactions daily.",
+      "highlights": [
+        "Designed REST APIs and reviewed software architecture for new features and system changes, producing OpenAPI Specification (OAS) documentation and collaborating with Product and Business teams to align technical solutions with business requirements across an organization of up to hundred developers using Agile Project Management and Issue Tracking tools.",
+        "Reviewed source code across multiple squads daily on a Enterprise Java, and Modern JavaScript, stack running on Container Orchestration Platform, ensuring adherence to architecture standards, security requirements, and Relational Database best practices, Hibernate, and JPA.",
+        "Drove application performance improvements by initiating and managing Change Requests, identifying bottlenecks across Reverse Proxy, and API Gateway layers, and proposing architectural solutions to reduce incidents and improve system reliability at scale for millions of active user base.",
+        "Managed and troubleshot distributed systems components including In-Memory Data Cache, Event Streaming and Message Queues, and CI/CD Pipelines, ensuring reliability and performance at high transaction volumes.",
+        "Maintained observability using Application Performance Monitoring (APM), Infrastructure Monitoring, and Log Management tools, ensuring SLA compliance and uptime targets for a high-traffic production banking platform processing hundreds of thousands of daily transactions.",
+        "Acted as rotating On-Call Engineer for after-hours incident response, leveraging Observability tools to diagnose and resolve critical production issues in a regulated banking environment.",
+        "Participated in IT procurement evaluation for third-party services and products including APM solutions, assessing technical fit, integration complexity, and risk for the assigned application domain.",
+        "Collaborated cross-functionally with Product Managers, Business Analysts, Tech Leads, and fellow Solution Architects to deliver end-to-end feature roadmaps, maintaining Technical Documentation standards throughout the software development lifecycle."
+      ]
+    },
+    {
+      "name": "Private Owned Bank",
+      "position": "Tech Lead",
+      "location": "Indonesia",
+      "startDate": "2021-12",
+      "endDate": "2024-11",
+      "summary": "Fulltime · Hybrid<br><br>Led a squad of 8–10 engineers through the full lifecycle of a mobile banking modernization initiative at a leading Indonesian private bank serving millions of users, from replatforming execution to live production, and continued feature development as Business as Usual (BAU).",
+      "highlights": [
+        "Designed and maintained REST APIs compliant with OpenAPI Specification (OAS), reviewed software architecture for new features and system changes, and reviewed source code daily across multiple sub-teams on an Enterprise Java and Modern JavaScript stack running on a Container Orchestration Platform, ensuring adherence to Microservices Architecture standards, security requirements, and Relational Database best practices including Hibernate and JPA.",
+        "Led end-to-end delivery of core mobile banking features including Login & Secure Authentication, Device Registration, Session Management, User Registration, eKYC & Digital Identity Verification, New Account Opening, Credit Card Application, Transaction Installment Conversion, and Dashboard Money Management, ensuring Non-Functional Requirements (NFR) including security, performance, and scalability were met prior to release, maintaining SLA compliance and high availability in a production banking environment serving millions of users.",
+        "Managed and troubleshot distributed systems components including In-Memory Data Cache, Event Streaming, Message Queues, and CI/CD Pipelines, ensuring reliability and performance at high transaction volumes, and acted as rotating On-Call Engineer leveraging Application Performance Monitoring (APM) and Log Management & Observability tooling to diagnose and resolve critical production issues in a regulated banking environment.",
+        "Collaborated cross-functionally with Product Managers, Business Analysts, Android Developers, iOS Developers, Backend Developers, Web Developers, Solution Architects, and fellow Tech Leads across an organization of up to hundred of developers to deliver end-to-end feature roadmaps in an Agile Project Management environment, managing inter-squad dependency coordination, escalating technical blockers, and serving as technical representative in cross-divisional meetings.",
+        "Drove technical delivery by decomposing epics and user stories into actionable engineering tasks, estimating effort for new features, coordinating release management and deployment schedules, and maintaining Technical Documentation including developer onboarding guides, squad knowledge base, Definition of Done standards, and Issue Tracking throughout the software development lifecycle.",
+        "Architected and developed shared PIN Transaction and other security related internal Libraries and REST APIs, adopted platform-wide across all payment and transaction features, establishing reusable components and consistent security standards across the entire mobile banking Microservices ecosystem.",
+        "Acted as PIC for Fraud Detection collaboration, working directly with the Fraud team to trace suspicious transactions across distributed Microservices and provide technical findings to support fraud case resolution in a regulated banking environment.",
+        "Participated in IT procurement evaluation for Digital Identity Verification (eKYC Integration) and Compliance vendors, assessing technical fit, integration complexity, and regulatory requirements across multiple vendor candidates.",
+        "Supported Performance Testing initiatives alongside a dedicated testing team and performed real-time vulnerability remediation directly with external Penetration Testers upon security assessment findings.",
+        "Conducted R&D on emerging technologies to evaluate adoption feasibility within the mobile banking platform, contributing findings to architectural decision-making.",
+        "Led people management responsibilities including regular 1-on-1s with squad members, providing performance feedback to management, unblocking developers on technical challenges, and onboarding new engineers into the squad and codebase.",
+        "Mentored interns and development program trainees during my assignment as tech lead, guiding technical growth, supporting final project preparation, and fostering engineering capability within a large-scale Agile development environment.",
+        "Successfully reduced security audit turnaround time by proactively implementing internal pre-penetration testing during the development phase.",
+        "Utilized security assessment tools to identify and mitigate OWASP Top 10 vulnerabilities before final compliance handovers."
+      ]
+    },
+    {
+      "name": "Private Owned Bank",
+      "position": "IT Analyst",
+      "location": "Indonesia",
+      "startDate": "2021-05",
+      "endDate": "2021-12",
+      "summary": "Fulltime · Hybrid<br><br>Selected from the existing engineering team based on prior performance to contribute to the architectural foundation of a large-scale mobile banking replatforming initiative serving millions of users at a leading Indonesian private bank.",
+      "highlights": [
+        "Led the end-to-end creation of Microservices Architecture templates and foundational service configurations adopted by up to hundred of developers, establishing the technical baseline for the entire replatforming project under senior engineering and management approval.",
+        "Participated in domain-driven design decisions alongside Tech Leads and Senior Engineers, contributing to service categorization, Relational Database structuring, and API Gateway  architecture across a Container Orchestration Platform.",
+        "Defined and documented engineering standards including Git branching strategies, inter-squad communication protocols via Event Streaming and Message Queues, code standards, and OpenAPI Specification (OAS) documentation standards, ensuring consistency across all development squads.",
+        "Developed onboarding tutorials and Technical Documentation for incoming engineers, enabling rapid ramp-up and standardized development practices across the project.",
+        "Architected integration blueprints for CI/CD Pipelines, Reverse Proxy, In-Memory Data Cache, Object Storage, and Log Management & Observability, establishing operational standards for staging and production environments.",
+        "Contributed to integration planning for SMS Gateway, Push Notifications (FCM & APNS), Email Notification Services, Fraud Detection, and eKYC Integration within the Microservices framework.",
+        "Participated in ETL migration efforts, implementing password column encryption to transition plaintext credentials to a secure encrypted format while ensuring backward compatibility for existing users post-migration.",
+        "Collaborated in an Agile Project Management environment, contributing to Issue Tracking, sprint planning, and cross-squad alignment throughout the preparation and early execution phases of the replatforming initiative."
+      ]
+    },
+    {
+      "name": "Private Owned Bank",
+      "position": "Application Development Specialist",
+      "location": "Indonesia",
+      "startDate": "2019-09",
+      "endDate": "2021-05",
+      "summary": "Fulltime · Hybrid<br><br>Contributed as a Back-End Developer to a digital banking transformation initiative at a leading Indonesian private bank serving hundreds of thousands of active users, including corporate and business banking customers. Participated in migrating a legacy Monolithic system to a Microservices Architecture, delivering core banking features across authentication, onboarding, account management, and payment services using an Enterprise Java Framework in an Agile environment.",
+      "highlights": [
+        "Engineered and maintained REST APIs compliant with OpenAPI Specification (OAS) using an Enterprise Java Framework, ensuring reliable integration contracts between internal Microservices and external client applications across mobile and web platforms, with Log Management & Observability standards and Technical Documentation maintained throughout.",
+        "Contributed to a large-scale digital banking replatforming initiative at a leading Indonesian private bank serving hundreds of thousands of active users, migrating from a Monolithic to a Microservices Architecture using domain-driven design principles to improve system scalability and deployment independence.",
+        "Engineered secure Login and PIN authentication mechanisms and end-to-end digital onboarding flows for both existing and new-to-bank customers, including Identity and Access Management (IAM) and eKYC Integration to ensure regulatory compliance and secure customer data handling.",
+        "Implemented In-Memory Data Cache, Relational Database, and Object Storage solutions alongside Event Streaming and Message Queues to optimize data retrieval performance and support scalable asynchronous communication across distributed Microservices.",
+        "Built core Account Management features including multi-account overviews, secondary account creation, and fixed-term deposit applications, enabling customers to manage wealth services entirely through digital channels.",
+        "Developed a Mass Transfer feature supporting bulk fund disbursement via CSV upload, enabling corporate and business banking customers to execute high-volume transactions efficiently.",
+        "Developed a Dynamic Document Generation Engine for online statement inquiry and download, compiling transactional history into on-demand PDF documents using HTML-to-PDF automation for secure and auditable record retrieval.",
+        "Maintained CI/CD Pipelines to automate testing and deployment workflows, ensuring code quality compliance and enabling safe continuous delivery to staging and production environments.",
+        "Integrated Email Notification Services to support transactional and system communications across the digital banking platform.",
+        "Collaborated in a cross-functional Agile team, contributing to Issue Tracking, sprint planning, and retrospectives to ensure continuous alignment and high-velocity delivery."
+      ]
+    },
+    {
+      "name": "Private Owned Bank",
+      "position": "IT Management Trainee Program",
+      "location": "Indonesia",
+      "startDate": "2019-03",
+      "endDate": "2019-09",
+      "summary": "Fulltime · Onsite<br><br>Completed a highly competitive Management Trainee program at a leading Indonesian private-owned bank, graduating as the top performer of the cohort. Underwent dual-track training covering full-stack JavaScript engineering through an intensive bootcamp program and comprehensive banking operations across most business units.",
+      "highlights": [
+        "Graduated as top performer of the Management Trainee cohort, demonstrating excellence across both technical and business tracks.",
+        "Completed an immersive Full Stack JavaScript Engineering bootcamp, covering end-to-end web development with modern JavaScript frameworks and technologies.",
+        "Developed a live online auction platform as capstone project for the Engineering bootcamp, enabling real-time bidding functionality as the final deliverable of the engineering program.",
+        "Underwent comprehensive banking operations training across core business units, gaining foundational understanding of retail banking processes and operations.",
+        "Produced a strategic deck on digital banking transformation in Indonesia during the selection process, which directly resulted in assignment to the bank's Digital Banking division upon joining, a thesis that proved prescient as digital banking adoption accelerated significantly during the COVID-19 pandemic."
+      ]
+    },
+    {
+      "name": "State Owned Bank",
+      "position": "Project Administrator",
+      "location": "Indonesia",
+      "startDate": "2018-02",
+      "endDate": "2019-02",
+      "summary": "Contract · Onsite<br><br>Served as the sole procurement PIC within the IT Security department of a leading Indonesian state-owned bank serving millions of customers, independently managing all IT security and vulnerability testing procurement end-to-end. Supported the CISO Office and reported directly to Vice President level in a high-compliance, enterprise-scale environment.",
+      "highlights": [
+        "Managed IT security procurement and vendor operations at a leading Indonesian state-owned bank serving millions of customers and processing digital banking transactions worth thousands of trillions of IDR annually.",
+        "Led procurement initiatives for Penetration Testing, Vulnerability Assessments, and IT security goods and services, coordinating technical requirements between the IT Security Office and external vendors.",
+        "Validated vendor deliverables against contractual obligations and coordinated with Finance to ensure accurate and timely vendor payments across all IT security engagements.",
+        "Supported the CISO Office directly as Secretary to the Vice President, handling day-to-day operational and administrative activities for senior IT security leadership."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universitas Mercu Buana, Indonesia",
+      "location": "Jakarta, Indonesia",
+      "url": "https://www.mercubuana.ac.id/",
+      "area": "System Information, Faculty of Computer Science",
+      "studyType": "Bachelor of Computer Science (BCompSc) • Sarjana Komputer (S.Kom.)",
+      "startDate": "2014",
+      "endDate": "2018",
+      "gpa": "3.84/4.00",
+      "highlights": [
+        "Graduate with honor (cum laude).",
+        "Accelerated graduation, completing the degree one semester early.",
+        "Secured a professional contract at a major state-owned bank (serving millions of users) directly after thesis defense, months prior to graduation."
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "International Review on Computers and Software (IRECOS) Vol 15, No 2 (2020). Android Based Application Using Google Maps API for Tourism Travel Guide.",
+      "publisher": "Praise Worthy Prize",
+      "releaseDate": "2020",
+      "url": "https://doi.org/10.15866/irecos.v15i2.17867",
+      "summary": "This research aims to design, build, and implement an application that able to increase knowledge and interest of society to tourism of Jakarta by providing various information about tourist location in DKI Jakarta as well as giving guide of travel route to tourist location, as guide in doing tourism activity to location – location of tourism in DKI Jakarta. This application development method uses waterfall system development methodology that has 5 phases of communication, planning, modeling, construction, and deployment. This application is built using Android Studio IDE, Java programming language, SQLite as database, and utilize Google Maps API to display the map. With this application, people who want to find information about Jakarta tourism can obtain various tourist information and guide the route to tourist locations in Jakarta more quickly and easily."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Java", "Python", "JavaScript"]
+    },
+    {
+      "name": "Frontend Development",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Vue.js", "React", "HTML", "CSS"]
+    },
+    {
+      "name": "Backend Development",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Spring Boot", "Quarkus", "Express.js", "Hibernate", "JPA"]
+    },
+    {
+      "name": "Software Architecture & Design",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Microservices Architecture", "Domain Driven Design", "REST APIs", "OpenAPI Specification (OAS)", "Cloud-Native Architecture"]
+    },
+    {
+      "name": "Database &  Storage",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Relational Database",
+        "No SQL Database",
+        "In Memory Cache",
+        "Redis",
+        "MongoDB",
+        "Cloud Storage Services",
+        "OracleDB",
+        "PostgreSQL",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Messaging & Streaming",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Apache Kafka"]
+    },
+    {
+      "name": "Observability & Monitoring",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Application Performance Monitoring (APM) Tools", "Log Management & Observability Tools"]
+    },
+    {
+      "name": "DevOps",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["CICD Pipelines", "Containerized Platforms", "Container Orchestration Platforms"]
+    },
+    {
+      "name": "Testing & Automation",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Junit", "Mockito", "Selenium", "Web Scraping", "Apache Jmeter", "Postman"]
+    },
+    {
+      "name": "Data & ETL",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["ETL Development", "SQL"]
+    },
+    {
+      "name": "Project Management",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Agile Project Management", "Scrum", "Issue Tracking", "Technical Documentation", "IT Procurement & Vendor Evaluation"]
+    },
+    {
+      "name": "Integration Services",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["SMS Gateway Integration", "Payment Gateway Integration", "Push Notifications (FCM & APNs)"]
+    },
+    {
+      "name": "Technical Documentation",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["markdown", "Open API", "Swagger", "Sphinx", "ReStructured Text", "Git"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency (B2)",
+      "icon": ""
+    }
+  ]
+}
