@@ -13,15 +13,10 @@ toc:
 
 <br>
 
-<div class="row" style="text-align:center">
-<div class="col-md-3 mt-md-0">
-<a href="https://digital-tasbih-web-a-aq35.bolt.host/" target="_blank"><img alt="⚡ See it Live" src="https://img.shields.io/badge/⚡_See_it_Live-blue?style=for-the-badge&logo=bolt"></a>
-</div>
-<div class="col-md-3 mt-md-0">
-<a href="https://github.com/noviirna-labs/islamic-tally-counter-webclient" target="_blank"><img alt="repository" src="https://img.shields.io/badge/repository-black?style=for-the-badge&logo=github"></a>
-</div>
-<div class="col-md-3 mt-md-0"><a href="/projects"><img alt="Back to Project" src="https://img.shields.io/badge/📁_see_projects-olive?style=for-the-badge"></a></div>
-</div>
+[![⚡ See it Live](https://img.shields.io/badge/⚡_See_it_Live-blue?style=for-the-badge&logo=bolt)](https://digital-tasbih-web-a-aq35.bolt.host/)
+[![repository](https://img.shields.io/badge/repository-black?style=for-the-badge&logo=github)](https://github.com/noviirna-labs/islamic-tally-counter-webclient)
+[![Back to Project](https://img.shields.io/badge/📁_see_projects-olive?style=for-the-badge)](/projects)
+
 <br>
 
 ## Overview
@@ -49,7 +44,8 @@ Turns out, pretty well.
 - Calm, minimal UI inspired by Muslim Pro; deep green and gold, no clutter
 
 <br>
-# Scope of Work
+
+## Scope of Work
 
 Intentionally narrow. The scope was defined before the first prompt was written:
 
@@ -153,6 +149,7 @@ At first, I was a bit skeptical, did it actually build what I needed? So I teste
 </div>
 
 <br>
+
 ## The Product
 
 After publishing, I instinctively opened it on my phone, the most accessible device for a tasbih. After using it for several days, the app ran perfectly across browsers, Safari and Chrome, on both mobile and desktop.
@@ -161,18 +158,15 @@ Checkout the app in action: <a href="https://digital-tasbih-web-a-aq35.bolt.host
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
-
+        {% include figure.liquid loading="eager" path="assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_1.png" title="single page application" class="img-fluid rounded z-depth-1" %}
         <div class="caption">This is a single web page application<br></div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
-
+        {% include figure.liquid loading="eager" path="assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_2.png" title="set target of dhikr" class="img-fluid rounded z-depth-1" %}
         <div class="caption">You can set the target of your dhikr<br></div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_3.png" title="example image" class="img-fluid rounded z-depth-1" %}
-
+        {% include figure.liquid loading="eager" path="assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_3.png" title="count by tapping the TAP button" class="img-fluid rounded z-depth-1" %}
         <div class="caption">You can begin your dhikr, it will count +1 when you tap the "TAP" button<br></div>
     </div>
 
@@ -180,18 +174,15 @@ Checkout the app in action: <a href="https://digital-tasbih-web-a-aq35.bolt.host
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_4.png" title="example image" class="img-fluid rounded z-depth-1" %}
-
+        {% include figure.liquid loading="eager" path="assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_4.png" title="message when reaching the dhikr target" class="img-fluid rounded z-depth-1" %}
         <div class="caption">After reaching the target, the screen will show notification message that you reach the dhikr target<br></div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_5.png" title="example image" class="img-fluid rounded z-depth-1" %}
-
+        {% include figure.liquid loading="eager" path="assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_5.png" title="still able to continue dhikr after reaching the target" class="img-fluid rounded z-depth-1" %}
         <div class="caption">If you want to count more than the target, the app give you freedom to continue your dhikr<br></div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_6.png" title="example image" class="img-fluid rounded z-depth-1" %}
-
+        {% include figure.liquid loading="eager" path="assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_6.png" title="reset the dhikr count back to zero" class="img-fluid rounded z-depth-1" %}
         <div class="caption">Or if you want to reset your count after reaching the target, you can just tap "reset", and the counter will be back to 0, with the target unchanged<br></div>
     </div>
 
@@ -223,3 +214,9 @@ exactly what you describe. If you know what you want as a user and can articulat
 boundaries, you already have most of what you need to ship something real.
 
 The hard part isn't the AI. It's knowing what you want before you ask.
+
+<br>
+
+[![⚡ See it Live](https://img.shields.io/badge/⚡_See_it_Live-blue?style=for-the-badge&logo=bolt)](https://digital-tasbih-web-a-aq35.bolt.host/)
+[![repository](https://img.shields.io/badge/repository-black?style=for-the-badge&logo=github)](https://github.com/noviirna-labs/islamic-tally-counter-webclient)
+[![Back to Project](https://img.shields.io/badge/📁_see_projects-olive?style=for-the-badge)](/projects)
