@@ -244,6 +244,7 @@ exclude:
   - migrations/
   - vendor
   - template_files/
+  - draft_files/
 keep_files:
   - CNAME
   - .nojekyll
