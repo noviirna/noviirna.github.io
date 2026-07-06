@@ -32,9 +32,10 @@ Several days in, I started testing the endpoints with real scenarios. And I foun
 - Shared primary key inserts that looked correct but failed at persist time.
 - Auto-generated Swagger documentation that contradicted what the endpoints actually returned, and needed.
 
-I *could* have switched to hand-written controllers at that point. But I realized something: the problem wasn't with Panache. It was that I was using it without guidelines.
+I _could_ have switched to hand-written controllers at that point. But I realized something: the problem wasn't with Panache. It was that I was using it without guidelines.
 
 So instead of abandoning it, I started documenting:
+
 - Where exactly does it fail?
 - Why does it fail?
 - How do I fix this specific case without rewriting everything?
@@ -52,7 +53,7 @@ By the time I'd fixed all the edge cases, I had something more valuable than a d
 - A repeatable pattern for testing
 - Clear guidance on when to stop using the auto-generated approach
 
-And I thought: *this is what I'd want in hand when I'm initializing a new database wrapper microservice.*
+And I thought: _this is what I'd want in hand when I'm initializing a new database wrapper microservice._
 
 Throughout my professional experience, I’ve found that there is a type of microservices that simply manages a few tables, expose them via REST, and handle little to no business logic. REST Data Panache is ideal for this use case, as long as you are aware of its constraints.
 
@@ -63,24 +64,24 @@ That is why I rebranded this repository into a blueprint. It provides a practica
 ## What This Taught Me
 
 ### On tutorials and references
+
 Great documentation finds its sweet spot in transparency. Beyond being just simple or advanced, the best references explicitly define their limits and focus on why things work the way they do, transforming a simple walkthrough into a reliable blueprint.
 
 ### On velocity tools
+
 Auto-generation is a fantastic multiplier, provided we know its boundaries. The goal isn't to find a tool that does everything, but to understand our tool's sweet spot, acknowledge its constraints, and complement it with clear strategies for anything outside that scope.
 
 ### On reusability
+
 If you find yourself referencing a piece of code over and over, it’s earned the right to be extendable. A demo only becomes a true blueprint when every decision is backed by the "why."
 
 ### On pivoting
+
 Do not fear rebranding or pivoting when early project assumptions fall short. True growth happens when we adapt our goals to match our constraints, uncovering insights we would have otherwise missed. As [Bob Ross](https://en.wikipedia.org/wiki/Bob_Ross) famously reminded us:
 
 > "We don't make mistakes, we just have happy accidents."
 >
 > Bob Ross (1942-1995)
-
-
-
-
 
 Every pivot is simply another way to find value in the unexpected.
 

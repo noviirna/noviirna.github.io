@@ -19,8 +19,8 @@ toc:
 
 ## Overview
 
-This project started from a simple, silly question: *what does your Spotify playlist say about you as a dating
-prospect?*
+This project started from a simple, silly question: _what does your Spotify playlist say about you as a dating
+prospect?_
 
 The answer, apparently, is a lot.
 
@@ -55,7 +55,7 @@ The scope was deliberately kept tight. The pipeline covers one flow and does it 
 
 - **What's out:** Spotify Web API, multi-playlist support, real-time streaming
 
-Staying narrow was a conscious call, more on that in the *How I Built It* section.
+Staying narrow was a conscious call, more on that in the _How I Built It_ section.
 
 <br>
 
@@ -276,7 +276,7 @@ Checkout the app in action: [![See it Live](https://img.shields.io/badge/See_it_
 The hardest part of this project wasn't the AI integration or the Selenium scraper. It was deciding what I actually
 wanted the output to look like, before writing a single line of code.
 
-With Gen AI, the model will give you *something* no matter what. The question is whether that something is what you
+With Gen AI, the model will give you _something_ no matter what. The question is whether that something is what you
 meant. The gap between "I want a personality analysis based on this playlist" and a genuinely useful, well-structured
 report is almost entirely a prompt engineering problem, and prompt engineering is almost entirely a requirements
 problem.

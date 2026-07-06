@@ -156,7 +156,7 @@ pre-shaped correctly, and the documented status codes reflect what the endpoints
 <br>
 
 Besides providing reusable template with optimized auto-generated swagger, it also provides demonstration the N+1 problem, and how to avoid it.
-It provides two demo endpoints with the same response shape, same DTO, but one quietly fires an extra query per request and one doesn’t, that you 
+It provides two demo endpoints with the same response shape, same DTO, but one quietly fires an extra query per request and one doesn’t, that you
 can try on your own when using this template project.
 
 <div class="row">
@@ -230,8 +230,8 @@ this blueprint.
 
 ## Solutions
 
-- Documented each failure mode with its root cause, not just the fix, so adopters understand *when* to apply a pattern,
-  not just *how*.
+- Documented each failure mode with its root cause, not just the fix, so adopters understand _when_ to apply a pattern,
+  not just _how_.
 - Used `@NotNull @Valid` together on record fields to enable cascading validation into nested entity constraints.
 - Implemented custom getter/setter pairs on the owning side of lazy relations, keeping the relation field `@JsonIgnore`
   while exposing flat FK ids as named JSON properties through Jackson's property accessor convention.
@@ -251,7 +251,7 @@ is what makes the difference between a template someone clones and discards, and
 enough to extend.
 
 The other thing I'd take forward: when auto-generated code fails silently (no exception, just wrong behavior), the
-failure mode is almost always about *when* something happens relative to the Hibernate session lifecycle. That mental
+failure mode is almost always about _when_ something happens relative to the Hibernate session lifecycle. That mental
 model, "is the session still open? is the proxy initialized? is this being read during serialization or during a
 transaction?", is more useful than any specific fix.
 
