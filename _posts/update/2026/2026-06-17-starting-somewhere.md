@@ -1,6 +1,6 @@
 ---
 layout: post
-title: starting somewhere..
+title: STARTING SOMEWHERE..
 date: 2026-06-17 16:40:16
 description: more soon.
 tags: portfolio update personal-message

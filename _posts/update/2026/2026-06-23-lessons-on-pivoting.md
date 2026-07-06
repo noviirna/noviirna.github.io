@@ -1,6 +1,6 @@
 ---
 layout: post
-title: lessons in pivoting - how my personal reference became a reusable blueprint
+title: LESSONS IN PIVOTING - HOW MY PERSONAL REFERENCE BECAME A REUSABLE BLUEPRINT
 date: 2026-06-22 00:58:00
 description: moving beyond simple demos and over-engineered setups. here is how i turned a personal reference into a reusable microservice blueprint, along with the unexpected lessons learned along the way.
 tags: quarkus java rest-api microservice lesson-learned software-architecture
