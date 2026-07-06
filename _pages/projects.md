@@ -10,7 +10,9 @@ display_categories: [professional-work, personal]
 horizontal: false
 ---
 
-This portfolio is the closest thing I have to showing how I connect technology, organizations, and people in one place. Because my professional work lives inside proprietary systems, I’ve mapped those projects through the lens of challenges, solutions, and key takeaways rather than specific details. Alongside them, you’ll find my personal side projects of pure experiments and 'just for fun' explorations that show what I’m curious about when the constraints are completely off.
+This portfolio is the closest thing I have to showing how I connect technology, organizations, and people in one place. My actual work lives inside proprietary systems or under NDA, so I can't show the real code or the real deck. What I can show is the shape of it: the challenge, what I did about it, what I took away. That's how the project write-ups are structured.
+
+Alongside them are my personal side projects. Pure experiments & explorations, some of them just for fun, built with the constraints taken off. This is what I dig into when nobody's asking me to.
 
 <!-- pages/projects.md -->
 
