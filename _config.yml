@@ -124,7 +124,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: field notes # blog_name will be displayed in your blog page
-blog_description: Observations from someone who's still figuring it out and enjoying every wrong turn. I've spent years working across tech, picking things up the hard way, and making sense of it on my own terms. This is where I write about what I've learned, unlearned, and synthesized. Because somewhere out there is someone Googling the same thing at 2am, and I want them to feel less alone in it. If any of it helps someone make sense of things a little faster, even better.
+blog_description: Notes from the field, or whatever you call navigating years in tech and figuring things out as you go. Written down along the way, mostly for whoever's Googling the same thing at 2am.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -340,7 +340,7 @@ jekyll-archives:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: [] # these tags will be displayed on the front page of your blog , example ["formatting", "images", "links", "math", "code", "blockquotes"]
-display_categories: ["updates", "software-development"] # these categories will be displayed on the front page of your blog, example "external-services"
+display_categories: ["updates", "software-development","self-improvement"] # these categories will be displayed on the front page of your blog, example "external-services"
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
