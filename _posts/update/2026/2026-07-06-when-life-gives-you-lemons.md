@@ -62,4 +62,4 @@ So, in mid-2026, **I pivoted**. I stepped away from the scholarship track. Inste
 
 ## Closing thoughts
 
-I don't have every variable figured out. This wasn't the plan, it was how I found a way to keep standing through trials I never saw coming, and **turning down that personal goal to align with where the world actually stands right now was just another calculated bet** in a field where nobody has the full blueprint anyway. **Adapting on the fly is basically the whole job now**, and this is just my latest attempt at it. _If writing this down helps someone else feel a little less lost in their own version of it, that's enough._
+I don't have every variable figured out. This wasn't the plan, it was how I found a way to keep standing through trials I never saw coming, and **turning down that personal goal to align with where the world actually stands right now, was just another calculated bet** in a field where nobody has the full blueprint anyway. **Adapting on the fly is basically the whole job now**, and this is just my latest attempt at it. _If writing this down helps someone else feel a little less lost in their own version of it, that's enough._
