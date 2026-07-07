@@ -2,7 +2,7 @@
 layout: page
 title: Retail Digital Banking Web
 description: 2019 - 2021<br>Web Application
-  <p>Production • Hundred thousands of users • App Modernization • Platform Migration • Agile Software Development Life Cycle</p>
+  <br><br>Production • Hundred thousands of users • App Modernization • Platform Migration • Agile Software Development Life Cycle
 img:
 importance: 2
 category: professional-work
@@ -18,9 +18,7 @@ toc:
 > The tech stack listed below reflects the technologies I worked with directly.
 > Recruiters, hiring managers, and those seeking freelance or consulting engagements are welcome to reach out via <a href="/profile" target="_blank">email</a> for further details.
 
-<div class="row" style="text-align:center">
-<div class="col-md-6 mt-md-0"><a href="/projects"><img alt="Back to Project" src="https://img.shields.io/badge/📁_see_projects-olive?style=for-the-badge"></a></div>
-</div>
+[![Back to Project](https://img.shields.io/badge/📁_see_projects-245641?style=for-the-badge)](/projects)
 
 <br>
 

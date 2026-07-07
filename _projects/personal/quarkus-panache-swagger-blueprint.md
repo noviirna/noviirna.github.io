@@ -2,7 +2,7 @@
 layout: page
 title: Quarkus Panache Swagger Blueprint
 description: 2026<br>Starter Template
-  <p>Open Source • Backend Template • Microservice • Database Wrapper • Cheatsheet • REST API • Java • Hibernate • JPA • Quarkus • Swagger • OpenAPI</p><br>
+  <br><br>Open Source • Backend Template • Microservice • Database Wrapper • Cheatsheet • REST API • Java • Hibernate • JPA • Quarkus • Swagger • OpenAPI
 img: assets/img/projects/quarkus-panache-swagger-blueprint/project-banner.png
 importance: 2
 category: personal
@@ -13,7 +13,7 @@ toc:
 
 [![repository](https://img.shields.io/badge/repository-black?style=for-the-badge&logo=github)](https://github.com/noviirna-labs/quarkus-panache-swagger-blueprint)
 [![github pages](https://img.shields.io/badge/github_pages-dimgray?style=for-the-badge&logo=github)](https://noviirna-labs.github.io/quarkus-panache-swagger-blueprint)
-[![Back to Project](https://img.shields.io/badge/📁_see_projects-olive?style=for-the-badge)](/projects)
+[![Back to Project](https://img.shields.io/badge/📁_see_projects-245641?style=for-the-badge)](/projects)
 
 <br>
 

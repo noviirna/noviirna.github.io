@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='#'>Versatile Tech Professional</a>. Software Engineering. Data Engineering. Project Management. Product Builder.
+subtitle: <a href='#'><b>I solve problems in IT</b></a>. Software Engineering. Data Engineering. Project Management. Product Builder.
 
 profile:
   align: right
@@ -28,13 +28,13 @@ latest_posts:
   limit: 1 # leave blank to include all the blog posts
 ---
 
-I solve problems in IT, and I've never cared much which tool I'm handed to do it. I didn't start in code. I started in the IT Security department of a state-owned bank, managing security projects. That job taught me early that technology is never purely technical: it's contractual, organizational, and deeply human. I carried that into a management trainee program, then into six years of engineering at one of Indonesia's private banks.
+I didn't start in code. I started in IT Security of a state owned bank, managing security projects. That job taught me early that technology is never purely technical: it's contractual, organizational, and deeply human. I carried that into a management trainee program in one of Indonesian private owned bank, then into six years of software engineering.
 
-I moved from management trainee to software developer to tech lead to solution architect, and each jump meant learning a different set of tools and a different way of thinking, fast. The tech lead role especially had blurry edges. Instead of waiting for someone to draw clearer lines, I picked up whatever the gap needed: writing and reviewing production code, running performance and automation tests, supporting SRE teams on CI/CD and DevOps tooling, managing project timelines, building secure ETL pipelines, doing R&D on emerging tech, evaluating third-party vendors before procurement decisions got made, documenting architectural decisions for downstream teams. None of that came from a single training track. Most of it came from being dropped into a problem and figuring out the tool for it as I went.
+From there: developer, tech lead, solution architect, each jump meaning a different set of tools and a different way of thinking, fast. The tech lead role had the blurriest edges of all three. Nobody drew clear lines around what belonged to that title, so I filled the gap myself, once reviewing vendor contracts before a procurement decision, another time debugging a pipeline nobody else wanted to touch.
 
-That's the pattern more than any one title: given a new stack, a new process, or a new kind of problem, I get productive in it quickly and don't get attached to a particular language, framework, or workflow along the way. The output is a profile that's hard to put in a single box. Part engineer, part architect, part project manager, part technical writer, with an infosec foundation running underneath all of it.
+That's the pattern more than any title: new stack, new process, new kind of problem, I get productive fast and don't get attached to any one language or workflow. Engineering is the base, but the work keeps pulling me into architecture, planning, and writing things down for other people. What's underneath all of it is the same infosec instinct from that first job at the bank.
 
-I work asynchronously and independently by default. Right now I'm open to collaborations in software engineering, technical writing, delivery management, AI code evaluation, and architecture consulting, and always up for interesting projects and people who think about problems the same way. If you want the fuller picture, [projects](/projects) is where I tinker, and [field notes](/blog) is where I share stuffs about tech, learning, and sometimes experiences nobody puts in a tutorial.
+I work async and independently by default. Open to to collaborations in software engineering, technical writing, delivery management, AI code evaluation, and software architecture consulting.
 
 [//]: # "Write your biography here. Tell the world about yourself. Link to your favorite . You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder."
 [//]: #

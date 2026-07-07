@@ -2,7 +2,7 @@
 layout: page
 title: Digital Tasbih
 description: 2026<br>Lightweight Web App
-  <p>Production • Personal Tools • Browser-based • AI Assisted Development • bolt.new • Privacy-conscious design • Experimental</p>
+  <br><br>Production • Personal Tools • Browser-based • AI Assisted Development • bolt.new • Privacy-conscious design • Experimental
 img: assets/img/projects/digital-tasbih/digital-tasbih-project-banner.png
 importance: 3
 category: personal
@@ -13,9 +13,9 @@ toc:
 
 <br>
 
-[![⚡ See it Live](https://img.shields.io/badge/⚡_See_it_Live-blue?style=for-the-badge&logo=bolt)](https://digital-tasbih-web-a-aq35.bolt.host/)
+[![⚡ See it Live](https://img.shields.io/badge/⚡_See_it_Live-006d76?style=for-the-badge&logo=bolt)](https://digital-tasbih-web-a-aq35.bolt.host/)
 [![repository](https://img.shields.io/badge/repository-black?style=for-the-badge&logo=github)](https://github.com/noviirna-labs/islamic-tally-counter-webclient)
-[![Back to Project](https://img.shields.io/badge/📁_see_projects-olive?style=for-the-badge)](/projects)
+[![Back to Project](https://img.shields.io/badge/📁_see_projects-245641?style=for-the-badge)](/projects)
 
 <br>
 

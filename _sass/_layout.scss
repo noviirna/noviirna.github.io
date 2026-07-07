@@ -1,0 +1,122 @@
+@use "variables" as v;
+@use "sass:color";
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+body > div.container.mt-5,
+.container.mt-5 {
+  opacity: 0;
+  animation: fadeIn 1.5s ease-in-out !important;
+  @media (prefers-reduced-motion: reduce) {
+    animation: none;
+    opacity: 1;
+  }
+}
+
+.navbar {
+  opacity: 0;
+  animation: fadeIn 1.1s ease-in-out forwards;
+  animation-delay: 0.15s; /* Jeda tipis agar konten utama memimpin transisi */
+  background: linear-gradient(
+    180deg,
+    color.change(v.$grey-border-light, $alpha: 0.4) 0%,
+    color.change(v.$white-pure, $alpha: 0.7) 50%,
+    color.change(v.$grey-silver, $alpha: 0.5) 100%
+  ) !important;
+  backdrop-filter: blur(15px) saturate(160%);
+  -webkit-backdrop-filter: blur(15px) saturate(160%); /* Dukungan Safari */
+  border-bottom: 1px solid color.change(v.$grey-lightest, $alpha: 0.2);
+  box-shadow: 0 4px 20px color.change(v.$white-pure, $alpha: 0.2);
+}
+
+[data-theme="dark"] .navbar {
+  background: linear-gradient(
+    180deg,
+    color.change(v.$pine-base, $alpha: 0.4) 0%,
+    color.change(v.$pine-light, $alpha: 0.7) 50%,
+    /*1c221e or 212824*/ color.change(v.$pine-medium-dark, $alpha: 0.5) 100% /*0e1110 or 121614 */
+  ) !important;
+  border: none;
+  backdrop-filter: blur(15px) saturate(160%);
+  -webkit-backdrop-filter: blur(15px) saturate(160%); /* Dukungan Safari */
+}
+
+.projects .card,
+.cv .card {
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+  background: linear-gradient(135deg, color.change(v.$grey-border-light, $alpha: 0.2) 0%, color.change(v.$grey-silver, $alpha: 0.6) 100%) !important;
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px); /* Dukungan Safari */
+  border-radius: 20px; /* Sudut melengkung membuat efek glossy terlihat lebih halus */
+  box-shadow: 0 12px 32px 0 color.change(v.$charcoal-base, $alpha: 0.15);
+  border: 1px solid color.change(v.$grey-lightest, $alpha: 0.2); /* Garis tepi kaca */
+}
+
+.projects .card:hover,
+.cv .card:hover {
+  background: linear-gradient(135deg, color.change(v.$white-pure, $alpha: 0.3) 0%, color.change(v.$grey-border-light, $alpha: 0.7) 100%) !important;
+  box-shadow: 0 16px 40px 0 color.change(v.$charcoal-light, $alpha: 0.15);
+  transform: translateY(-4px);
+}
+
+[data-theme="dark"] .projects .card,
+[data-theme="dark"] .cv .card {
+  background: linear-gradient(
+    135deg,
+    color.change(v.$charcoal-base, $alpha: 0.7) 0%,
+    color.change(v.$pine-base, $alpha: 0.3) 50%,
+    color.change(v.$pine-medium-dark, $alpha: 0.1) 100%
+  ) !important;
+  border: 1px solid color.change(v.$pine-light, $alpha: 0.2); /* Garis tepi kaca */
+  box-shadow: 0 12px 32px 0 color.change(v.$pine-light, $alpha: 0.15);
+}
+
+[data-theme="dark"] .projects .card:hover,
+[data-theme="dark"] .cv .card:hover {
+  background: linear-gradient(
+    135deg,
+    color.change(v.$charcoal-light, $alpha: 0.7) 0%,
+    color.change(v.$pine-base, $alpha: 0.3) 50%,
+    color.change(v.$pine-medium-dark, $alpha: 0.1) 100%
+  ) !important;
+  box-shadow: 0 12px 32px 0 color.change(v.$pine-dark, $alpha: 0.15);
+  transform: translateY(-4px);
+}
+
+.cv .card :hover {
+  transform: translateY(-1px);
+}
+
+.li.toc-list-item :hover {
+  transform: translateY(-1px);
+}
+
+// jangan dihapus, .table dark ini, kalo dihapus warna nya beda sendiri
+// sepertinya saat override dgn custom css, warnanya gak ngikut
+.table-dark {
+  background-color: var(--global-bg-color);
+}
+
+ul.post-list {
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+ul.post-list li:hover {
+  transform: scale(1.01);
+  box-shadow: 0 8px 20px color.change(v.$charcoal-base, $alpha: 0.15);
+}
+
+h2.category:hover {
+  transform: scale(1.02);
+}

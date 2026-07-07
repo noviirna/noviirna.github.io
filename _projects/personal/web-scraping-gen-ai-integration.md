@@ -2,7 +2,7 @@
 layout: page
 title: Spotify Playlist Dating Red Flag Analyzer
 description: 2025<br>Data Pipeline
-  <p>For Fun • CLI App • Open Source • Web Scraping • Automation • Python • Selenium • Prompt Engineering • Gen AI Integration • Gemini API • Experimental • MVP • Streamlit</p><br>
+  <br><br>For Fun • CLI App • Open Source • Web Scraping • Automation • Python • Selenium • Prompt Engineering • Gen AI Integration • Gemini API • Experimental • MVP • Streamlit
 img: assets/img/projects/web-scraping-gen-ai-integration/banner.png
 importance: 4
 category: personal
@@ -11,9 +11,9 @@ toc:
   sidebar: left
 ---
 
-[![See it Live](https://img.shields.io/badge/See_it_Live-00A2A2?style=for-the-badge&logo=streamlit)](https://spotify-vibe-check.streamlit.app/)
+[![See it Live](https://img.shields.io/badge/See_it_Live-006d76?style=for-the-badge&logo=streamlit)](https://spotify-vibe-check.streamlit.app/)
 [![repository](https://img.shields.io/badge/repository-black?style=for-the-badge&logo=github)](https://github.com/nirnawati-expt/spotify-playlist-dating-redflag-analysis)
-[![Back to Project](https://img.shields.io/badge/📁_see_projects-olive?style=for-the-badge)](/projects)
+[![Back to Project](https://img.shields.io/badge/📁_see_projects-245641?style=for-the-badge)](/projects)
 
 <br>
 

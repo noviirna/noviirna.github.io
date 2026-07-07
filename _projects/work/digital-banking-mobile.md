@@ -2,7 +2,7 @@
 layout: page
 title: Retail Digital Banking App
 description: 2021 - 2025<br>Mobile Application
-  <p>Production • Android & iOS • Millions of users • App Modernization • Platform Migration • Agile Software Development Life Cycle</p>
+  <br><br>Production • Android & iOS • Millions of users • App Modernization • Platform Migration • Agile Software Development Life Cycle
 img:
 importance: 1
 category: professional-work
@@ -17,11 +17,8 @@ toc:
 > The tech stack listed below reflects the technologies I worked with directly.
 > Recruiters, hiring managers, and those seeking freelance or consulting engagements are welcome to reach out via <a href="/profile" target="_blank">email</a> for further details.
 
-<div class="row" style="text-align:center">
-<div class="col-md-4 mt-md-0  ml-mr-0">
-<div class="col-md-4 mt-md-0 ml-mr-0"><a href="/projects"><img alt="Static Badge" src="https://img.shields.io/badge/📁_see_projects-olive?style=for-the-badge"></a></div>
-</div>
-</div>
+[![Back to Project](https://img.shields.io/badge/📁_see_projects-245641?style=for-the-badge)](/projects)
+
 <br>
 
 ## Role
