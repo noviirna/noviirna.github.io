@@ -13,7 +13,7 @@
 body > div.container.mt-5,
 .container.mt-5 {
   opacity: 0;
-  animation: fadeIn 1.5s ease-in-out !important;
+  animation: fadeIn 1.5s ease-in-out forwards !important;
   @media (prefers-reduced-motion: reduce) {
     animation: none;
     opacity: 1;
@@ -22,7 +22,7 @@ body > div.container.mt-5,
 
 .navbar {
   opacity: 0;
-  animation: fadeIn 1.1s ease-in-out forwards;
+  animation: fadeIn 1.1s ease-in-out forwards !important;
   animation-delay: 0.15s; /* Jeda tipis agar konten utama memimpin transisi */
   background: linear-gradient(
     180deg,
