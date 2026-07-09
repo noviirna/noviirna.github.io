@@ -3,7 +3,7 @@ layout: page
 title: Digital Tasbih
 description: 2026<br>Lightweight Web App
   <br><br>Production • Personal Tools • Browser-based • AI Assisted Development • bolt.new • Privacy-conscious design • Experimental
-img: assets/img/projects/digital-tasbih/digital-tasbih-project-banner.png
+img: https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/digital-tasbih/digital-tasbih-project-banner.webp
 importance: 3
 category: personal
 related_publications: false
@@ -127,9 +127,12 @@ See the exact prompt I used and how bolt.new turned it into a working app in one
      ---
 
 <br>
+
+assets/img/projects/digital-tasbih/bolt.new_1_build_app.webp
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/digital-tasbih/bolt.new_1_build_app.png" title="the prompt execution" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/digital-tasbih/bolt.new_1_build_app.webp" title="the prompt execution" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -141,7 +144,7 @@ At first, I was a bit skeptical, did it actually build what I needed? So I teste
 <br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/digital-tasbih/bolt.new_2_publish_app.png" title="published app" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/digital-tasbih/bolt.new_2_publish_app.webp" title="published app" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -158,15 +161,15 @@ Checkout the app in action: <a href="https://digital-tasbih-web-a-aq35.bolt.host
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_1.png" title="single page application" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_1.webp" title="single page application" class="img-fluid rounded z-depth-1" %}
         <div class="caption">This is a single web page application<br></div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_2.png" title="set target of dhikr" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_2.webp" title="set target of dhikr" class="img-fluid rounded z-depth-1" %}
         <div class="caption">You can set the target of your dhikr<br></div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_3.png" title="count by tapping the TAP button" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_3.webp" title="count by tapping the TAP button" class="img-fluid rounded z-depth-1" %}
         <div class="caption">You can begin your dhikr, it will count +1 when you tap the "TAP" button<br></div>
     </div>
 
@@ -174,15 +177,15 @@ Checkout the app in action: <a href="https://digital-tasbih-web-a-aq35.bolt.host
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_4.png" title="message when reaching the dhikr target" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_4.webp" title="message when reaching the dhikr target" class="img-fluid rounded z-depth-1" %}
         <div class="caption">After reaching the target, the screen will show notification message that you reach the dhikr target<br></div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_5.png" title="still able to continue dhikr after reaching the target" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_5.webp" title="still able to continue dhikr after reaching the target" class="img-fluid rounded z-depth-1" %}
         <div class="caption">If you want to count more than the target, the app give you freedom to continue your dhikr<br></div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_6.png" title="reset the dhikr count back to zero" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/digital-tasbih/digital-tasbih-web-a-aq35.bolt.host_6.webp" title="reset the dhikr count back to zero" class="img-fluid rounded z-depth-1" %}
         <div class="caption">Or if you want to reset your count after reaching the target, you can just tap "reset", and the counter will be back to 0, with the target unchanged<br></div>
     </div>
 

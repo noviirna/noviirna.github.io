@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Novi
 middle_name:
 last_name: Irnawati
@@ -16,7 +16,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: # add your own keywords or leave empty example: jekyll, jekyll-theme, academic-website, portfolio-website
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 📝 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ☁️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://noviirna.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -123,7 +123,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: field notes # blog_name will be displayed in your blog page
+blog_name: Field Notes # blog_name will be displayed in your blog page
 blog_description: Notes from the field, or whatever you call navigating years in tech and figuring things out as you go. Written down along the way, mostly for whoever's Googling the same thing at 2am.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts

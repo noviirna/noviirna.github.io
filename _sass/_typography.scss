@@ -1,6 +1,7 @@
 body {
   font-family: "Inter", sans-serif;
 }
+
 code,
 pre,
 .repo-stars,
@@ -40,4 +41,49 @@ article {
 
 .toc > .toc-list li {
   padding: 2 0 2 0;
+}
+
+.quick-summary {
+  margin: 0.5rem;
+  font-size: 0.875rem;
+}
+
+.quick-summary .highlight {
+  font-weight: 500;
+  font-size: 1rem;
+  color: var(--global-theme-color);
+}
+
+.landing .title {
+  font-weight: 700;
+}
+
+.bento-card p,
+.bento-card li {
+  font-size: 0.9rem;
+}
+
+.landing h3,
+.landing h5 {
+  font-weight: 500;
+  font-size: 1.25em;
+}
+
+.landing h3 > a {
+  color: var(--global-text-color) !important;
+}
+
+.landing h3 > a:hover {
+  text-decoration: none;
+  color: var(--global-theme-color) !important;
+}
+
+.landing .icon-list {
+  margin: 1rem 0 0 0;
+  font-size: 0.8rem;
+}
+
+.icon-list > span:hover,
+.post-meta:hover {
+  color: var(--global-theme-color);
 }

@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: field notes
+title: Field Notes
 nav: true
 nav_order: 4
 pagination:

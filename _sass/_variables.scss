@@ -5,6 +5,10 @@
 
 @use "sass:color";
 
+:root {
+  --max-content-width: 990px;
+}
+
 // Colors
 $red-color: #ff3636 !default;
 $red-color-dark: #b71c1c !default;
@@ -54,6 +58,7 @@ $max-content-width: 930px !default;
 /*--BEGIN CUSTOMIZATION--*/
 // --- KELOMPOK PUTIH & TERANG (LIGHT THEME / BACKGROUND) ---
 $white-pure: #ffffff;
+$dew-drop: #f3f6f5;
 $grey-lightest: #fafbfa;
 $grey-light: #f3f4f6;
 $grey-border-light: #e5e7eb;
@@ -72,6 +77,10 @@ $grey-muted: #8d93a0;
 $grey-cool: #6b7280;
 $grey-cool-dark: #424246;
 
+// --- MID TONE
+$silver-mist: #e2e8e5; /* Perak berkabut dengan hint hijau (tengah) */
+$sage-stone: #e9eceb; /* Abu-abu silver solid seperti batu sungai (bawah) */
+
 // --- KELOMPOK BASIS HAU PINUS GELAP (#171c19) ---
 $pine-light: #212824; // 1 tingkat lebih terang
 $pine-medium-light: #1c221e; // 0.5 tingkat lebih terang
@@ -81,10 +90,13 @@ $pine-dark: #0e1110; // 1 tingkat lebih gelap
 $pine-obsidian: #111816; // Varian gelap pekat
 $pine-ash: #18211e; // Varian gelap keabuan
 $pine-slate: #4c5754; // Varian hijau abu pudar
+$shadow-pine: #121816; /* Hijau arang/charcoal forest (tengah) */
 
 // --- KELOMPOK BASIS BOOTSTRAP JET BLACK (#212529) ---
+$deep-canopy: #0a1412; /* Hijau hutan yang sangat gelap (atas) */
 $charcoal-light: #343a40; // 1 tingkat lebih terang (Bootstrap)
 $charcoal-base: #212529; // Warna dasar (Bootstrap)
 $charcoal-dark: #1f2937; // Varian gelap (Tailwind Gray)
+$charcoal-ground: #181a1b; /* Abu-abu charcoal */
 $charcoal-rich-dark: #101214; // 1 tingkat lebih gelap
 /*--END CUSTOMIZATION--*/

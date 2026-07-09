@@ -3,7 +3,7 @@ layout: page
 title: Spotify Playlist Dating Red Flag Analyzer
 description: 2025<br>Data Pipeline
   <br><br>For Fun • CLI App • Open Source • Web Scraping • Automation • Python • Selenium • Prompt Engineering • Gen AI Integration • Gemini API • Experimental • MVP • Streamlit
-img: assets/img/projects/web-scraping-gen-ai-integration/banner.png
+img: https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/web-scraping-gen-ai-integration/banner.webp
 importance: 4
 category: personal
 related_publications: false
@@ -127,7 +127,7 @@ Checkout the app in action: [![See it Live](https://img.shields.io/badge/See_it_
 
 <div class="row">
     <div class="col-lg mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/web-scraping-gen-ai-integration/spotify-vibe-check.streamlit.app_0.png" title="Streamlit app landing page" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/web-scraping-gen-ai-integration/spotify-vibe-check.streamlit.app_0.webp" title="Streamlit app landing page" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
         The landing page. Paste your playlist link and let the fun begin.
     </div>
@@ -136,7 +136,7 @@ Checkout the app in action: [![See it Live](https://img.shields.io/badge/See_it_
 <br>
 <div class="row">
     <div class="col-lg mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/web-scraping-gen-ai-integration/spotify-vibe-check.streamlit.app_1.png" title="Type in the URL then click the button" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/web-scraping-gen-ai-integration/spotify-vibe-check.streamlit.app_1.webp" title="Type in the URL then click the button" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
         Drop in the Spotify playlist URL and hit the button. That's all the user needs to do.
     </div>
@@ -145,7 +145,7 @@ Checkout the app in action: [![See it Live](https://img.shields.io/badge/See_it_
 <br>
 <div class="row">
     <div class="col-lg mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/web-scraping-gen-ai-integration/spotify-vibe-check.streamlit.app_2.png" title="Web scraping, data extraction and data cleaning run behind the scene" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/web-scraping-gen-ai-integration/spotify-vibe-check.streamlit.app_2.webp" title="Web scraping, data extraction and data cleaning run behind the scene" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
         Behind the scene: Selenium takes over, scraping the page, monitoring network traffic, extracting and cleaning the song data.
     </div>
@@ -154,7 +154,7 @@ Checkout the app in action: [![See it Live](https://img.shields.io/badge/See_it_
 <br>
 <div class="row">
     <div class="col-lg mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/web-scraping-gen-ai-integration/spotify-vibe-check.streamlit.app_3.png" title="AI Client analyze the cleaned data with its configured prompt, parameter, and system instruction" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/web-scraping-gen-ai-integration/spotify-vibe-check.streamlit.app_3.webp" title="AI Client analyze the cleaned data with its configured prompt, parameter, and system instruction" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
         Now the pipeline hands off to the AI Client, cleaned playlist data gets packed into a prompt, layered with the system instructions and base prompt configured in the environment variables.
     </div>
@@ -164,7 +164,7 @@ Checkout the app in action: [![See it Live](https://img.shields.io/badge/See_it_
 <br>
 <div class="row">
     <div class="col-lg mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/web-scraping-gen-ai-integration/spotify-vibe-check.streamlit.app_4.png" title="Report can be downloaded after the pipeline finished" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/web-scraping-gen-ai-integration/spotify-vibe-check.streamlit.app_4.webp" title="Report can be downloaded after the pipeline finished" class="img-fluid rounded z-depth-1" %}
     <div class="caption"> 
         Once the report is ready, one click to download.
     </div>
@@ -174,7 +174,7 @@ Checkout the app in action: [![See it Live](https://img.shields.io/badge/See_it_
 <br>
 <div class="row">
     <div class="col-lg mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/web-scraping-gen-ai-integration/spotify-vibe-check.streamlit.app_5.png" title="The report" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/web-scraping-gen-ai-integration/spotify-vibe-check.streamlit.app_5.webp" title="The report" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
         The final output, a Markdown-formatted dating red flag report, straight from the AI.
     </div>
@@ -187,7 +187,7 @@ Checkout the app in action: [![See it Live](https://img.shields.io/badge/See_it_
 
 <div class="row">
     <div class="col-lg mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/web-scraping-gen-ai-integration/cli_0.png" title="Streamlit app landing page" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/web-scraping-gen-ai-integration/cli_0.webp" title="Streamlit app landing page" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
         The CLI entry point, one command, one argument, that's it.
     </div>
@@ -196,7 +196,7 @@ Checkout the app in action: [![See it Live](https://img.shields.io/badge/See_it_
 <br>
 <div class="row">
     <div class="col-lg mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/web-scraping-gen-ai-integration/cli_1.png" title="Type in the URL then click the button" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/web-scraping-gen-ai-integration/cli_1.webp" title="Type in the URL then click the button" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
         Selenium spins up a browser instance and starts scraping the playlist page. Network traffic captured, songs extracted, data cleaned, pipeline is running.
     </div>
@@ -205,7 +205,7 @@ Checkout the app in action: [![See it Live](https://img.shields.io/badge/See_it_
 <br>
 <div class="row">
     <div class="col-lg mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/web-scraping-gen-ai-integration/cli_2.png" title="Web scraping, data extraction and data cleaning run behind the scene" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/web-scraping-gen-ai-integration/cli_2.webp" title="Web scraping, data extraction and data cleaning run behind the scene" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
         Prompt assembled. System instructions loaded. Sending to the AI.
     </div>
@@ -214,7 +214,7 @@ Checkout the app in action: [![See it Live](https://img.shields.io/badge/See_it_
 <br>
 <div class="row">
     <div class="col-lg mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/web-scraping-gen-ai-integration/cli_3.png" title="AI Client analyze the cleaned data with its configured prompt, parameter, and system instruction" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/web-scraping-gen-ai-integration/cli_3.webp" title="AI Client analyze the cleaned data with its configured prompt, parameter, and system instruction" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
         Generation complete. Output will be saved as a txt file (but written in markdown format), named by playlist ID and date.
     </div>
@@ -224,7 +224,7 @@ Checkout the app in action: [![See it Live](https://img.shields.io/badge/See_it_
 <br>
 <div class="row">
     <div class="col-lg mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/web-scraping-gen-ai-integration/cli_4.png" title="Report can be downloaded after the pipeline finished" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/web-scraping-gen-ai-integration/cli_4.webp" title="Report can be downloaded after the pipeline finished" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
         Here is the proof output saved as a txt file, named by playlist ID and date.
     </div>
@@ -233,7 +233,7 @@ Checkout the app in action: [![See it Live](https://img.shields.io/badge/See_it_
 <br>
 <div class="row">
     <div class="col-lg mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/web-scraping-gen-ai-integration/cli_5.png" title="The report" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/web-scraping-gen-ai-integration/cli_5.webp" title="The report" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
         The final report. Same tone, same markdown format as the Streamlit version, straight from the terminal.
     </div>

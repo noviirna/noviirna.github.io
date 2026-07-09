@@ -3,7 +3,7 @@ layout: page
 title: Quarkus Panache Swagger Blueprint
 description: 2026<br>Starter Template
   <br><br>Open Source • Backend Template • Microservice • Database Wrapper • Cheatsheet • REST API • Java • Hibernate • JPA • Quarkus • Swagger • OpenAPI
-img: assets/img/projects/quarkus-panache-swagger-blueprint/project-banner.png
+img: https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/quarkus-panache-swagger-blueprint/project-banner.webp
 importance: 2
 category: personal
 related_publications: false
@@ -12,7 +12,7 @@ toc:
 ---
 
 [![repository](https://img.shields.io/badge/repository-black?style=for-the-badge&logo=github)](https://github.com/noviirna-labs/quarkus-panache-swagger-blueprint)
-[![github pages](https://img.shields.io/badge/github_pages-dimgray?style=for-the-badge&logo=github)](https://noviirna-labs.github.io/quarkus-panache-swagger-blueprint)
+[![github pages](https://img.shields.io/badge/github_pages-dimgray?style=for-the-badge&logo=github)](https://nirnawati-expt.github.io/quarkus-panache-swagger-blueprint/)
 [![Back to Project](https://img.shields.io/badge/📁_see_projects-245641?style=for-the-badge)](/projects)
 
 <br>
@@ -135,21 +135,21 @@ pre-shaped correctly, and the documented status codes reflect what the endpoints
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <div class="caption">Swagger UI showing all entity endpoints with correct status codes.<br>Example: PUT /student</div>
-        {% include figure.liquid loading="eager" path="assets/img/projects/quarkus-panache-swagger-blueprint/swagger_fixed_statuscode.png" title="PUT /student in swagger with fixed http status code response" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/quarkus-panache-swagger-blueprint/swagger_fixed_statuscode.webp" title="PUT /student in swagger with fixed http status code response" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <div class="caption">Flattened http request body payload.<br>Example: POST /enrollment request body<br>student.id and course.id presented as flat Long student_id and course_id in payload, not nested object<br></div>
-        {% include figure.liquid loading="eager" path="assets/img/projects/quarkus-panache-swagger-blueprint/swagger_payload_request_flat.png" title="flattened http request" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/quarkus-panache-swagger-blueprint/swagger_payload_request_flat.webp" title="flattened http request" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <div class="caption">Flattened http response body payload.<br>Example: GET /enrollment/{id} response body body<br>student.id and course.id presented as flat Long student_id and course_id in payload, not nested object<br></div>
-        {% include figure.liquid loading="eager" path="assets/img/projects/quarkus-panache-swagger-blueprint/swagger_payload_response_flat.png" title="flattened http response" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/quarkus-panache-swagger-blueprint/swagger_payload_response_flat.webp" title="flattened http response" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <br>
@@ -164,11 +164,11 @@ can try on your own when using this template project.
 </div>
 <div class="row">
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/quarkus-panache-swagger-blueprint/demo_avoid-n+1_swagger-hit-to-api.png" title="The Optimized API test using swagger" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/quarkus-panache-swagger-blueprint/demo_avoid-n%2B1_swagger-hit-to-api.webp" title="The Optimized API test using swagger" class="img-fluid rounded z-depth-1" %}
         <div class="caption">The Optimized API test using swagger</div>
     </div>
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/quarkus-panache-swagger-blueprint/demo_n+1-problem_swagger-hit-to-api.png" title="The Unoptimized API test using swagger" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/quarkus-panache-swagger-blueprint/demo_n%2B1-problem_swagger-hit-to-api.webp" title="The Unoptimized API test using swagger" class="img-fluid rounded z-depth-1" %}
         <div class="caption">The Unoptimized API test using swagger</div>
     </div>
 </div>
@@ -177,17 +177,17 @@ can try on your own when using this template project.
 </div>
 <div class="row">
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/quarkus-panache-swagger-blueprint/demo_avoid-n+1_log.png" title="The Optimized API test result" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/quarkus-panache-swagger-blueprint/demo_avoid-n%2B1_log.webp" title="The Optimized API test result" class="img-fluid rounded z-depth-1" %}
         <div class="caption">The Optimized API test result: the log shown single SQL query from hibernate to database, 1 query call</div>
     </div>
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/quarkus-panache-swagger-blueprint/demo_n+1-problem_log.png" title="The Unoptimized API test result" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/quarkus-panache-swagger-blueprint/demo_n%2B1-problem_log.webp" title="The Unoptimized API test result" class="img-fluid rounded z-depth-1" %}
         <div class="caption">The Unoptimized API test result: the log shown two SQL query from hibernate to database, 2 query call</div>
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/quarkus-panache-swagger-blueprint/docs_n+1problem.png" title="The why behind the N+1 Problem" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/quarkus-panache-swagger-blueprint/docs_n%2B1problem.webp" title="The why behind the N+1 Problem" class="img-fluid rounded z-depth-1" %}
         <div class="caption">Documented "why" behind the N+1 Problem</div>
     </div>
 </div>
@@ -199,14 +199,14 @@ this blueprint.
 
 <div class="row">
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/quarkus-panache-swagger-blueprint/docs_cheatsheet.png" title="The cheatsheet" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/quarkus-panache-swagger-blueprint/docs_cheatsheet.webp" title="The cheatsheet" class="img-fluid rounded z-depth-1" %}
         <div class="caption">The cheatsheet: tips, tricks & the reasoning behind them, every design decision in this repo explained with “why”</div>
     </div>
 </div>
 <br>
 <div class="row">
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/quarkus-panache-swagger-blueprint/docs_usecase.png" title="The schema behind the examples" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/quarkus-panache-swagger-blueprint/docs_usecase.webp" title="The schema behind the examples" class="img-fluid rounded z-depth-1" %}
         <div class="caption">The schema behind the examples: full before/after normalization writeup</div>
     </div>
 </div>
