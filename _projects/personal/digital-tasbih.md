@@ -222,4 +222,4 @@ The hard part isn't the AI. It's knowing what you want before you ask.
 
 [![⚡ See it Live](https://img.shields.io/badge/⚡_See_it_Live-blue?style=for-the-badge&logo=bolt)](https://digital-tasbih-web-a-aq35.bolt.host/)
 [![repository](https://img.shields.io/badge/repository-black?style=for-the-badge&logo=github)](https://github.com/noviirna-labs/islamic-tally-counter-webclient)
-[![Back to Project](https://img.shields.io/badge/📁_see_projects-olive?style=for-the-badge)](/projects)
+[![Back to Project](https://img.shields.io/badge/📁_see_projects-245641?style=for-the-badge)](/projects)

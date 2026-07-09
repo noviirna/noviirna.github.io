@@ -105,3 +105,5 @@ The modernized platform redefined how millions of users interact with their fina
 5. **Performance is a user experience concern, not just a technical one:** System performance directly impacts how users perceive and adopt a product. Resource optimization and performance considerations must be part of every feature analysis not an afterthought.
 6. **Human-centric development matters more than feature volume:** Releasing many features that users do not need or adopt is not progress. Features should be driven by real user needs and validated by data not by internal stakeholder pressure or executive preferences.
 7. **Complexity requires humility:** Working within large-scale systems with many moving parts and many types of people is fundamentally different from individual or small-team work. The most important skills are often non-technical communication, empathy, negotiation, and knowing when to escalate.
+
+[![Back to Project](https://img.shields.io/badge/📁_see_projects-245641?style=for-the-badge)](/projects)

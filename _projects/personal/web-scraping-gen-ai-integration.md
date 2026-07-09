@@ -295,4 +295,4 @@ midnight with some crying-laughing-skull emojis .
 
 [![See it Live](https://img.shields.io/badge/See_it_Live-00A2A2?style=for-the-badge&logo=streamlit)](https://spotify-vibe-check.streamlit.app/)
 [![repository](https://img.shields.io/badge/repository-black?style=for-the-badge&logo=github)](https://github.com/nirnawati-expt/spotify-playlist-dating-redflag-analysis)
-[![Back to Project](https://img.shields.io/badge/📁_see_projects-olive?style=for-the-badge)](/projects)
+[![Back to Project](https://img.shields.io/badge/📁_see_projects-245641?style=for-the-badge)](/projects)
