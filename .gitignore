@@ -24,6 +24,8 @@ vendor/
 Gemfile.lock
 
 .idea
+*.sublime-workspace
+*.sublime-project
 
 _site
 .bundle
