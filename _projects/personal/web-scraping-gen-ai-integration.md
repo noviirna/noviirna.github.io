@@ -11,8 +11,8 @@ toc:
   sidebar: left
 ---
 
-[![See it Live](https://img.shields.io/badge/See_it_Live-006d76?style=for-the-badge&logo=streamlit)](https://spotify-vibe-check.streamlit.app/)
-[![repository](https://img.shields.io/badge/repository-black?style=for-the-badge&logo=github)](https://github.com/nirnawati-expt/spotify-playlist-dating-redflag-analysis)
+<a href="https://github.com/nirnawati-expt/spotify-playlist-dating-redflag-analysis" target="_blank"><img src="https://img.shields.io/badge/repository-black?style=for-the-badge&amp;logo=github" alt="repository"></a>
+<a href="https://spotify-vibe-check.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/See_it_Live-006d76?style=for-the-badge&logo=streamlit" alt="see it live"></a>
 [![Back to Project](https://img.shields.io/badge/📁_see_projects-245641?style=for-the-badge)](/projects)
 
 <br>
@@ -293,6 +293,6 @@ This project was also a reminder that **the best things to build are the ones yo
 case, want your friends to use. Nothing validates a side project faster than friends sending you their results at
 midnight with some crying-laughing-skull emojis .
 
-[![See it Live](https://img.shields.io/badge/See_it_Live-00A2A2?style=for-the-badge&logo=streamlit)](https://spotify-vibe-check.streamlit.app/)
-[![repository](https://img.shields.io/badge/repository-black?style=for-the-badge&logo=github)](https://github.com/nirnawati-expt/spotify-playlist-dating-redflag-analysis)
+<a href="https://github.com/nirnawati-expt/spotify-playlist-dating-redflag-analysis" target="_blank"><img src="https://img.shields.io/badge/repository-black?style=for-the-badge&amp;logo=github" alt="repository"></a>
+<a href="https://spotify-vibe-check.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/See_it_Live-006d76?style=for-the-badge&logo=streamlit" alt="see it live"></a>
 [![Back to Project](https://img.shields.io/badge/📁_see_projects-245641?style=for-the-badge)](/projects)

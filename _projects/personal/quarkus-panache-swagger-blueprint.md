@@ -11,8 +11,8 @@ toc:
   sidebar: left
 ---
 
-[![repository](https://img.shields.io/badge/repository-black?style=for-the-badge&logo=github)](https://github.com/noviirna-labs/quarkus-panache-swagger-blueprint)
-[![github pages](https://img.shields.io/badge/github_pages-dimgray?style=for-the-badge&logo=github)](https://nirnawati-expt.github.io/quarkus-panache-swagger-blueprint/)
+<a href="https://github.com/nirnawati-expt/quarkus-panache-swagger-blueprint" target="_blank"><img src="https://img.shields.io/badge/repository-black?style=for-the-badge&amp;logo=github" alt="repository"></a>
+<a href="https://nirnawati-expt.github.io/quarkus-panache-swagger-blueprint/" target="_blank"><img src="https://img.shields.io/badge/github_pages-dimgray?style=for-the-badge&logo=github" alt="github pages"></a>
 [![Back to Project](https://img.shields.io/badge/📁_see_projects-245641?style=for-the-badge)](/projects)
 
 <br>
@@ -257,6 +257,6 @@ transaction?", is more useful than any specific fix.
 
 <br>
 
-[![repository](https://img.shields.io/badge/repository-black?style=for-the-badge&logo=github)](https://github.com/noviirna-labs/quarkus-panache-swagger-blueprint)
-[![github pages](https://img.shields.io/badge/github_pages-dimgray?style=for-the-badge&logo=github)](https://noviirna-labs.github.io/quarkus-panache-swagger-blueprint)
+<a href="https://github.com/nirnawati-expt/quarkus-panache-swagger-blueprint" target="_blank"><img src="https://img.shields.io/badge/repository-black?style=for-the-badge&amp;logo=github" alt="repository"></a>
+<a href="https://nirnawati-expt.github.io/quarkus-panache-swagger-blueprint/" target="_blank"><img src="https://img.shields.io/badge/github_pages-dimgray?style=for-the-badge&logo=github" alt="github pages"></a>
 [![Back to Project](https://img.shields.io/badge/📁_see_projects-245641?style=for-the-badge)](/projects)

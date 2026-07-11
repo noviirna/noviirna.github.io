@@ -11,10 +11,8 @@ toc:
   sidebar: left
 ---
 
-<br>
-
-[![⚡ See it Live](https://img.shields.io/badge/⚡_See_it_Live-006d76?style=for-the-badge&logo=bolt)](https://digital-tasbih-web-a-aq35.bolt.host/)
-[![repository](https://img.shields.io/badge/repository-black?style=for-the-badge&logo=github)](https://github.com/noviirna-labs/islamic-tally-counter-webclient)
+<a href="https://github.com/nirnawati-expt/islamic-tally-counter-webclient" target="_blank"><img src="https://img.shields.io/badge/repository-black?style=for-the-badge&amp;logo=github" alt="repository"></a>
+<a href="https://digital-tasbih-web-a-aq35.bolt.host/" target="_blank"><img src="https://img.shields.io/badge/See_it_Live-006d76?style=for-the-badge&logo=bolt/" alt="see it live"></a>
 [![Back to Project](https://img.shields.io/badge/📁_see_projects-245641?style=for-the-badge)](/projects)
 
 <br>
@@ -220,6 +218,6 @@ The hard part isn't the AI. It's knowing what you want before you ask.
 
 <br>
 
-[![⚡ See it Live](https://img.shields.io/badge/⚡_See_it_Live-blue?style=for-the-badge&logo=bolt)](https://digital-tasbih-web-a-aq35.bolt.host/)
-[![repository](https://img.shields.io/badge/repository-black?style=for-the-badge&logo=github)](https://github.com/noviirna-labs/islamic-tally-counter-webclient)
+<a href="https://github.com/nirnawati-expt/islamic-tally-counter-webclient" target="_blank"><img src="https://img.shields.io/badge/repository-black?style=for-the-badge&amp;logo=github" alt="repository"></a>
+<a href="https://digital-tasbih-web-a-aq35.bolt.host/" target="_blank"><img src="https://img.shields.io/badge/See_it_Live-006d76?style=for-the-badge&logo=bolt/" alt="see it live"></a>
 [![Back to Project](https://img.shields.io/badge/📁_see_projects-245641?style=for-the-badge)](/projects)

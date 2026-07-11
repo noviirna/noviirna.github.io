@@ -1,8 +1,8 @@
 ---
 layout: post
-title: WHEN LIFE GIVES YOU LEMONS, RUN AN ROI & RISK ANALYSIS
+title: When Life Gives You Lemons, Run an ROI & Risk Analysis
 date: 2026-07-06 00:58:00
-description: life doesn't check your timeline before it throws something at you.  No plan survives contact with real life, and mine fell apart anyway. the data started telling me to walk away long before i had the conviction to do it. this is what it looked like to let logic lead when nothing else made sense.
+description: Life doesn't check your timeline before it throws something at you.  No plan survives contact with real life, and mine fell apart anyway. the data started telling me to walk away long before i had the conviction to do it. This is what it looked like to let logic lead when nothing else made sense.
 tags: life-lessons career-pivot career-break grad-school sunk-cost-fallacy
 categories: self-improvement
 featured: false

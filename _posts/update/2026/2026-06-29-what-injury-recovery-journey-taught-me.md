@@ -1,8 +1,8 @@
 ---
 layout: post
-title: WHAT A LONG-TERM PHYSICAL INJURY TAUGHT ME THAT NO CAREER EVER COULD
+title: What a Long-Term Physical Injury Taught Me That No Career Ever Could
 date: 2026-06-29 00:58:00
-description: an injury that looked invisible from the outside but reshaped how I think about health, recovery, and strength. It took away something I never thought to appreciate, and left lessons no career ever could teach. Some lessons only the body can teach.
+description: An injury that looked invisible from the outside but reshaped how I think about health, recovery, and strength. It took away something I never thought to appreciate, and left lessons no career ever could teach. Some lessons only the body can teach.
 tags: career-break injury-recovery mental-health invisible-disability resilience
 categories: self-improvement
 featured: false
