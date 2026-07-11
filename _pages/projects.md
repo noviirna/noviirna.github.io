@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 2
 collection: projects
-display_categories: [professional-work, personal]
+display_categories: [professional-work, personal-exploration]
 horizontal: false
 ---
 
@@ -23,7 +23,7 @@ Alongside them are my personal side projects. Pure experiments & explorations, s
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category font-weight-bold" style="color: var(--global-theme-color)">{{ category }}</h2>
+    <h2 class="category font-weight-bold" style="color: var(--global-theme-color)"># {{ category }}</h2>
   </a>
   {% assign categorized_projects = site.projects | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}

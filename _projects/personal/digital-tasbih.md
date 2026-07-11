@@ -2,10 +2,10 @@
 layout: page
 title: Digital Tasbih
 description: 2026<br>Lightweight Web App
-  <br><br>Production • Personal Tools • Browser-based • AI Assisted Development • bolt.new • Privacy-conscious design • Experimental
+  <br><br>Production • Personal Tools • Browser-based • Vibe Coding • bolt.new • Privacy-conscious design • Experimental
 img: https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/digital-tasbih/digital-tasbih-project-banner.webp
-importance: 3
-category: personal
+importance: 1
+category: personal-exploration
 related_publications: false
 toc:
   sidebar: left

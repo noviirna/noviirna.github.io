@@ -4,8 +4,8 @@ title: Spotify Playlist Dating Red Flag Analyzer
 description: 2025<br>Data Pipeline
   <br><br>For Fun • CLI App • Open Source • Web Scraping • Automation • Python • Selenium • Prompt Engineering • Gen AI Integration • Gemini API • Experimental • MVP • Streamlit
 img: https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/web-scraping-gen-ai-integration/banner.webp
-importance: 4
-category: personal
+importance: 1
+category: personal-exploration
 related_publications: false
 toc:
   sidebar: left

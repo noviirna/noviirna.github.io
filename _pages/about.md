@@ -62,7 +62,7 @@ latest_posts:
     </div>
     <div class="col-sm-4 mt-md-0 bento-card">
         <h3>Experience</h3>
-        <p>6+ years spans across software engineering, with additional 1 year in project management & IT security.</p>
+        <p><a href="#">6+ years</a> spans across software engineering, with additional <a href="#">1 year</a> in project management & IT security.</p>
     </div>
     <div class="col-sm-4 mt-md-0 bento-card">
         <h3>Currently</h3>
@@ -79,9 +79,9 @@ latest_posts:
     </div>
     <div class="col-sm-6 bento-card">
         <h3>Working with</h3>
-        <p class="quick-summary">Tool agnostic by default. Everything below has been used in real work, whether professional, freelance, or personal.</p>
+        <p class="quick-summary"><a href="#">Tool agnostic by default.</a> Everything below has been used in real work, whether professional, freelance, or personal.</p>
         <div>
-        <p class="icon-list">Project Management & Collaboration:<br>
+        <p class="icon-list"><span>Project Management & Collaboration</span><br>
         <span><i class="fab fa-jira"></i> Jira</span>
         <span><i class="fab fa-confluence"></i> Confluence</span>
         <span><i class="fas fa-file-lines"></i> Notion</span>
@@ -90,7 +90,7 @@ latest_posts:
         <span><i class="fas fa-users-gear"></i> Microsoft 365</span>
         </p></div>
         <div>
-        <p class="icon-list">Language & Frameworks:<br>
+        <p class="icon-list"><span>Language & Frameworks</span><br>
         <span><i class="fab fa-js"></i> JavaScript</span> 
         <span><i class="fas fa-database"></i> SQL</span>
         <span><i class="fab fa-java"></i> Java</span> 
@@ -101,7 +101,7 @@ latest_posts:
         <span><i class="fas fa-bolt"></i> Quarkus</span>
         </p></div>
         <div>
-        <p class="icon-list">Cloud, Infra & Build Tools:<br>
+        <p class="icon-list"><span>Cloud, Infra & Build Tools</span><br>
         <span><i class="fab fa-git-alt"></i> Git</span>
         <span><i class="fas fa-box"></i> Maven</span>
         <span><i class="fab fa-linux"></i> Linux</span>
@@ -112,7 +112,7 @@ latest_posts:
         <span><i class="fas fa-project-diagram"></i> Kafka</span>
         </p></div>
         <div>
-        <p class="icon-list">Data, Database & Storage :<br>
+        <p class="icon-list"><span>Data, Database & Storage</span><br>
         <span><i class="fas fa-book"></i> Jupyter Notebook </span>
         <span><i class="fas fa-database"></i> PostgreSQL </span>
         <span><i class="fas fa-database"></i> Oracle DB </span>
@@ -121,7 +121,7 @@ latest_posts:
         <span><i class="fas fa-database"></i> Google Cloud Bucket</span>
         </p></div>
         <div>
-        <p class="icon-list">Testing:<br>
+        <p class="icon-list"><span>Software Quality Assurance</span><br>
         <span><i class="fas fa-plug"></i> Microcks</span>
         <span><i class="fas fa-rocket"></i> Postman</span>
         <span><i class="fas fa-shield-halved"></i> Burp Suite</span>

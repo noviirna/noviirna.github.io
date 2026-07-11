@@ -24,8 +24,12 @@ h2,
 h6,
 .post-title {
   font-weight: 500;
-  line-height: 1.7 !important;
+  line-height: 1.7;
   letter-spacing: 0.01em;
+}
+
+h2.card-title {
+    line-height: 1.2;
 }
 
 article {

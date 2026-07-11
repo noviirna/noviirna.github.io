@@ -5,7 +5,7 @@ description: 2026<br>Starter Template
   <br><br>Open Source • Backend Template • Microservice • Database Wrapper • Cheatsheet • REST API • Java • Hibernate • JPA • Quarkus • Swagger • OpenAPI
 img: https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/quarkus-panache-swagger-blueprint/project-banner.webp
 importance: 2
-category: personal
+category: personal-exploration
 related_publications: false
 toc:
   sidebar: left
