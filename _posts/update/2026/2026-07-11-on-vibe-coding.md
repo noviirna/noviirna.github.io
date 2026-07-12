@@ -2,7 +2,7 @@
 layout: post
 title: "The Reality of Vibe Coding: AI Generates Code, Engineers Make Decisions"
 date: 2026-07-11 00:58:00
-description: I spent weeks vibe coding with AI agents, and the funniest bug wasn't a crash. It was the AI confidently telling me a feature was done, then finding out the files were never even saved. Here's what that taught me about where AI actually helps, and where it still can't replace human judgment.
+description: I tried vibe coding with AI agents, and the funniest bug wasn't a crash. It was the AI confidently telling me a feature was done, then finding out the files were never even saved. Here's what that taught me about where AI actually helps, and where it still can't replace human judgment.
 tags: artificial-intelligence ai ai-assisted-development software-development vibe-coding
 categories: software-engineering
 featured: false

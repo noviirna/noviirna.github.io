@@ -19,6 +19,7 @@ Alongside them are my personal side projects. Pure experiments & explorations, s
 <br>
 
 <div class="projects">
+<!-- PROJECTS THAT IS POSTED -->
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
@@ -44,11 +45,7 @@ Alongside them are my personal side projects. Pure experiments & explorations, s
   </div>
   {% endif %}
   {% endfor %}
-
-{% else %}
-
-<!-- Display projects without categories -->
-
+{% else %} <!-- Display projects without categories -->
 {% assign sorted_projects = site.projects | sort: "importance" %}
 
   <!-- Generate cards for each project -->
@@ -70,4 +67,29 @@ Alongside them are my personal side projects. Pure experiments & explorations, s
   </div>
   {% endif %}
 {% endif %}
+<!-- OTHER TOOLS I BUILT (NOT POSTED PROJECTS) -->
+<!--   <a id="other-tools-i-built" href=".#other-tools-i-built">
+    <h2 class="category font-weight-bold" style="color: var(--global-theme-color)"># other-tools-i-built</h2>
+  </a> -->
+  <div class="row row-cols-1 row-cols-md-3">
+    <!-- MINI TOOLS 1 : TODO buat PAGE Project nya-->
+    <div class="col">
+      <div class="card h-100 hoverable">
+        <a href="https://nirnawati-expt.github.io/png-to-webp-converter/" target="_blank">
+          <figure>
+            <picture>
+              <img src="https://pub-4d54749bd8904ce6a42f98b26e4787c3.r2.dev/assets/img/projects/png-to-webp-converter/png2webp_banner.webp" class="card-img-top"  width="100%" height="auto" alt="project thumbnail" loading="eager" onerror=" this.onerror=null; document.querySelectorAll('.responsive-img-srcset').  forEach(function (n) { n.remove(); });">
+            </picture>
+          </figure>  
+          <div class="card-body">
+            <h2 class="card-title">PNG to WebP Converter</h2>
+            <p class="card-text">2026<br>Lightweight Web App<br><br>Production • Open   Source • 100% Client-side (Privacy-first) • Built with Human-In-The-Loop AI   Workflow</p>
+          </div>
+        </a>
+        <div class="card-body">
+          <p class="card-text"><a href="/blog/2026/discovery-on-how-i-build-ai-agent-workflow/">From Simple Tool to Building Agentic Workflows Without Code→</a></p>  
+        </div>
+      </div>  
+  </div>
+  </div>
 </div>
