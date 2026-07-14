@@ -124,7 +124,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Field Notes # blog_name will be displayed in your blog page
-blog_description: Notes from the field, or whatever you call navigating years in tech and figuring things out as you go. Written down along the way, mostly for whoever's Googling the same thing at 2am.
+blog_description: Notes from the field, or whatever you call spending years in software engineering, building things, breaking things, and occasionally figuring out why. Some are technical, some are opinionated, most are written for whoever ends up Googling the same question at 2am.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
