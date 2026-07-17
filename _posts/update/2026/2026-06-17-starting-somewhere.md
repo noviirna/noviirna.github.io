@@ -5,7 +5,7 @@ date: 2026-06-17 16:40:16
 description: More soon.
 tags: portfolio update personal-message
 categories: updates
-featured: false
+featured: true
 ---
 
 I recently launched this portfolio site as a central hub for my professional experience, projects, and thoughts on technology.

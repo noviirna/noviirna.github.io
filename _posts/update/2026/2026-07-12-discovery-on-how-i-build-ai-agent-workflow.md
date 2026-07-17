@@ -5,7 +5,7 @@ date: 2026-07-12 18:58:00
 description: "I let an AI agent build a simple utility tool, and ended up learning more about managing it than about the code itself. Turns out skill files can carry a whole workflow: plan, approve, execute, verify, rollback. Some parts of that workflow were broken until I actually checked. Here's what I found."
 tags: agentic-ai ai-workflow human-in-the-loop no-code-workflow vibe-coding dev-workflow
 categories: software-engineering
-featured: false
+featured: true
 ---
 
 This was my **first time vibe coding** locally, and my instinct going in was: _write good prompts, pick a smart model, ship._ Turns out that's the **smaller half** of the problem.

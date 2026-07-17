@@ -8,7 +8,7 @@ categories: self-improvement
 featured: false
 ---
 
-For most of my life, I treated my body like it would just keep up with whatever I asked of it. Exercise regularly, stay disciplined, avoid the obviously unhealthy stuff, and good health follows. _That was the deal, or so I assumed._ Then, in late 2024, a traffic accident left me with a **serious physical injury**. It wasn't the kind people could see. Without a mobility aid in view, I looked fine. But it left me effectively handicapped for months, and I lived with **chronic pain** for almost a year. _The assumption fell apart._
+For most of my life, I treated my body like it would just keep up with whatever I asked of it. Exercise regularly, stay disciplined, avoid the obviously unhealthy stuff, and good health follows. _That was the deal, or so I assumed._ Then, a year ago a traffic accident left me with a long term injury. It wasn't the kind people could see. Without a mobility aid in view, I looked fine. But it left me somewhat handicapped for months. _The assumption fell apart._
 
 It changed more than my body. I used to believe that if I stayed disciplined about my health, life would stay reasonably predictable. The accident put a dent in that belief. **Life is more fragile than we like to admit**, and sometimes _one bad moment is enough to rewrite your routines, your priorities, and the future you thought you had planned._ In my case, it was also one of the things that pushed me toward a career break, not the only reason, but a big enough one that I couldn't ignore.
 
@@ -20,9 +20,9 @@ Here's what stuck with me, long after the injury itself.
 
 When you're healthy, you don't think about it much. Career, relationships, whatever milestone is next, that's where the attention goes. **Health just works quietly in the background, until it doesn't.**
 
-I only noticed how much I'd taken for granted after I lost the ability to move normally. It's a strange, quiet kind of shock: _I had never once imagined that losing the ability to move freely without severe pain could happen to me._ It was there, invisible, and then it wasn't.
+I only noticed how much I'd taken for granted after I lost the ability to move normally. It's a strange, quiet kind of shock: _I had never once imagined that losing the ability to move freely could happen to me._ It was there, invisible, and then it wasn't.
 
-I did my best to hide my injury. I was scared of how people would see me if they knew, so I pushed through, wearing a discreet medical brace under my clothes where no one could tell, withheld the pain and acted like nothing was wrong. **That's the thing about health as a privilege. You don't just lose it quietly, you also have to perform not having lost it** (especially in an environment where any sign of weakness can get used against you).
+I did my best to hide my injury. I was scared of how people would see me if they knew (because of stigma), so I pushed through, wearing a discreet medical brace under my clothes where no one could tell, and acted like nothing was wrong. **That's the thing about health as a privilege. You don't just lose it quietly, you also have to perform not having lost it** (especially in an environment where any sign of weakness can get used against you).
 
 Walking without thinking about it. Standing comfortably. Exercising whenever I felt like it. Trusting my own body. None of that felt extraordinary at the time. **We don't appreciate health because it's remarkable. We appreciate it because we notice when it's gone.**
 
@@ -36,19 +36,9 @@ That was frustrating at first. _Eventually it became freeing._
 
 ### Sometimes the fastest way forward is to slow down
 
-The hardest lesson was accepting that **pushing harder wouldn't get me there faster**. I kept wanting to rush back to where I used to be. But rushing usually meant _more pain and slower progress, not less_.
+The hardest lesson was accepting that **pushing harder wouldn't get me there faster**. I kept wanting to rush back to where I used to be. But in this case, rushing usually meant _slower progress, not less_.
 
 Recovery forced me to practice something I'd rarely practiced before: **patience as a strategy, not a virtue**. Stepping back isn't giving up. _Sometimes it's the only thing that lets you move forward again._
-
-### Physical health and mental health are tangled together
-
-I understood this idea intellectually before the injury. Afterward, _I understood it personally_.
-
-Losing my mobility wasn't just a physical limitation. It hit my confidence, my sense of independence, my daily routines, my mood. Staying active had never been just a hobby. **It was how I managed stress and felt like myself.** I never expected there'd be a day when moving without pain would become something I couldn't take for granted.
-
-When the injury took that away, I wasn't only grieving lost mobility. **I was grieving a routine that had quietly held up my mental health for years.** Without it, _overthinking and rumination crept in fast_. My body had slowed down. My mind hadn't.
-
-**Body and mind aren't separate systems.** They lean on each other more than we admit.
 
 ### Acceptance isn't the same as giving up
 
@@ -66,13 +56,13 @@ Maybe the biggest shift was learning to look at my own body with **more compassi
 
 ### Long-term investments matter more than we realize
 
-By the time this happened, in my mid-to-late twenties, I'd been active for more than half my life, playing various sports & doing various exercises on and off since I was around 12. I never did it thinking of it as an investment. I just enjoyed it. Looking back, I think that **base level of fitness gave my body a stronger foundation to recover from**. _The habit I temporarily lost during recovery may be part of what made the recovery possible in the first place._
+By the time this happened, in my mid-to-late twenties, I'd been active for more than half my life, playing various sports & doing various exercises on and off since I was a teenager. I never did it thinking of it as an investment. I just enjoyed it. Looking back, I think that **base level of fitness gave my body a stronger foundation to recover from**. _The habit I temporarily lost during recovery may be part of what made the recovery possible in the first place._
 
 We tend to think of health as a long-term bet that pays off decades later. **Sometimes it pays off right when you need it**, exactly when life stops being predictable.
 
 ### Recovery is still a work in progress
 
-I want to be honest: **this doesn't end with a full recovery.** I'm still rebuilding. I'm grateful I can exercise again, but I'm not back to where I was before the injury. Months of limited mobility, plus a relapse partway through, changed my body in ways I didn't see coming. _Recovery wasn't a straight line. Neither was getting my confidence back._
+I want to be honest: **this doesn't end with a full recovery.** I'm still rebuilding. I'm grateful I can exercise again, but I'm not back to my level of athleticism before the injury. Months of limited mobility, plus a relapse partway through, changed my body in ways I didn't see coming. _Recovery wasn't a straight line. Neither was getting my confidence back._
 
 My relationship with exercise looks different now. I still enjoy being active, but **I respect my limits more than I ever did**. I'm not chasing intensity or trying to prove I'm "back." _I'm aiming for consistency, and for actually listening to what my body tells me._
 

@@ -5,7 +5,7 @@ date: 2026-06-22 00:58:00
 description: I wanted something past another toy demo or an over-engineered setup nobody would actually use. Here's how a personal reference project turned into a reusable microservice blueprint, plus a few lessons I didn't see coming.
 tags: quarkus java microservice software-engineering software-architecture
 categories: lessons-learned
-featured: false
+featured: true
 ---
 
 I had an old repo sitting around, a collection of JPA relation patterns I'd documented from past work. Nothing fancy, just _"here's how to map 1:1, 1:M, M:M without breaking anything."_ Useful as a personal reference, but I kept thinking it could be more.
