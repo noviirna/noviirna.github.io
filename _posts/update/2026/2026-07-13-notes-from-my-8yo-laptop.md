@@ -66,5 +66,5 @@ I don't have a fix for the industry. But I'm trying, in my own small way, to **g
 
 <p class="post-meta"><i>*The views expressed in this post are my personal reflections in today’s software engineering industry and do not reflect the views of any past or current employers.</i></p>
 <br>
-<a href="https://github.com/nirnawati-expt/marktab" target="_blank"><img src="https://img.shields.io/badge/repository-black?style=for-the-badge&amp;logo=github" alt="repository"></a>
-<a href="https://nirnawati-expt.github.io/marktab/" target="_blank"><img src="https://img.shields.io/badge/🔎_Checkout_The_Tool-006d76?style=for-the-badge" alt="checkout the tool"></a>
+<a href="https://github.com/nirnawati-expt/live.md" target="_blank"><img src="https://img.shields.io/badge/repository-black?style=for-the-badge&amp;logo=github" alt="repository"></a>
+<a href="https://nirnawati-expt.github.io/live.md/" target="_blank"><img src="https://img.shields.io/badge/🔎_Checkout_The_Tool-006d76?style=for-the-badge" alt="checkout the tool"></a>
