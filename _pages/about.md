@@ -179,6 +179,7 @@ latest_posts:
 <div class="row justify-content-sm bento-card">
     <h3><a href="/news">News</a></h3>
     <div class="news">
+        <br>
         {% if site.news != blank %}
             {% assign news_size = site.news | size %}
     <div class="table-responsive"
